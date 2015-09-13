@@ -30,10 +30,16 @@ Key: (L) = Linux-only, (W) = Windows-only, (M) = Mac-only
 * https://wiki.archlinux.org/index.php/Bspwm (L)
 * https://wiki.archlinux.org/index.php/Dwm (L)
 * http://blackbox4windows.com/ (W)
+* https://windawesome.codeplex.com/ (W)
+* https://code.google.com/p/bugn/wiki/bugn (W)
+* https://github.com/Vibex/qt.pi (W)
+* https://github.com/ragesalmon/TildePlusPlus (W)
 
 ### TILING
 * https://wiki.archlinux.org/index.php/PyTyle (L)
 * http://twily.info/s/tiling/grid (L)
+* http://download.cnet.com/WinSplit-Revolution/3000-2072_4-10971915.html (W)
+* http://jgpaiva.dcmembers.com/gridmove.html (W)
 
 ### BARS
 * https://github.com/LemonBoy/bar (L)
@@ -97,3 +103,4 @@ sudo fc-cache -f -v
 
 ### SYSTEM INFO
 * https://github.com/KittyKatt/screenFetch (L) (M)
+* https://github.com/hal-ullr/cmdfetch (W)
