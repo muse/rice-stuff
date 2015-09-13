@@ -5,7 +5,7 @@ Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 Key: (L) = Linux-only, (W) = Windows-only, (M) = Mac-only
 
 ### H-HOW?
-* https://duckduckgo.com/?q=how*do*I*...
+* https://duckduckgo.com/?q=how*do*I*... (AKA just google it)
 * man $program
 * man $program
 * man $program
@@ -17,8 +17,8 @@ Key: (L) = Linux-only, (W) = Windows-only, (M) = Mac-only
 ### GITTING GUD
 * http://deviantart.com
 * http://dotshare.it (L) (M)
-* https://github.com
-* https://wiki.archlinux.org
+* https://github.com/search?q=dotfiles
+* https://wiki.archlinux.org (L)
 * https://www.reddit.com/r/unixporn (L) (M)
 
 ### WINDOW MANAGERS
