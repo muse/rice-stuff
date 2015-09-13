@@ -2,6 +2,8 @@ Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 
 Key: (L) = Linux-only, (W) = Windows-only, (M) = Mac-only
 
+Pull requests for contributions are welcome.
+
 ### H-HOW?
 * https://duckduckgo.com/?q=how*do*I*... (AKA just google it)
 * man $program
