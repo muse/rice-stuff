@@ -1,5 +1,3 @@
-The #rice-omatic list o' things.
-
 Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 
 Key: (L) = Linux-only, (W) = Windows-only, (M) = Mac-only
