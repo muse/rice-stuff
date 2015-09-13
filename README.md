@@ -10,6 +10,17 @@ Key: (L) = Linux-only, (W) = Windows-only, (M) = Mac-only
 * man $program
 * man $program
 
+### GITTING STARTED
+* http://nanami-tan.info (W)
+* https://www.digitalocean.com/community/tutorial_series/getting-started-with-linux (L)
+
+### GITTING GUD
+* http://deviantart.com
+* http://dotshare.it (L) (M)
+* https://github.com
+* https://wiki.archlinux.org
+* https://www.reddit.com/r/unixporn (L) (M)
+
 ### WINDOW MANAGERS
 * https://wiki.archlinux.org/index.php/Openbox (L)
 * https://wiki.archlinux.org/index.php/Awesome (L)
@@ -83,17 +94,6 @@ sudo fc-cache -f -v
 * https://github.com/mpv-player/mpv/wiki/User-Scripts
 * http://sourceforge.net/projects/mpcbe (W)
 * https://mpc-hc.org (W)
-
-### GITTING STARTED
-* http://nanami-tan.info (W)
-* https://www.digitalocean.com/community/tutorial_series/getting-started-with-linux (L)
-
-### GITTING GUD
-* http://deviantart.com
-* http://dotshare.it (L) (M)
-* https://github.com
-* https://wiki.archlinux.org
-* https://www.reddit.com/r/unixporn (L) (M)
 
 ### SYSTEM INFO
 * https://github.com/KittyKatt/screenFetch (L) (M)
