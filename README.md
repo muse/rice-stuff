@@ -77,6 +77,7 @@ sudo fc-cache -f -v
 ### FIREFOX
 * https://nightly.mozilla.org
 * https://addons.mozilla.org/en-US/firefox/addon/stylish
+* http://www.logicalincrements.com/firefox/
 * http://noha-ra.deviantart.com/art/Tinycss-476413072
 * http://noha-ra.deviantart.com/art/Konbanwa-homepage-450787545
 * https://github.com/yukisuki/startpage
