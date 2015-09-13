@@ -17,7 +17,7 @@ Key: (L) = Linux-only, (W) = Windows-only, (M) = Mac-only
 ### GITTING GUD
 * http://deviantart.com
 * http://dotshare.it (L) (M)
-* https://github.com/search?q=dotfiles
+* https://github.com/search?o=desc&q=dotfiles&s=stars&type=Repositories
 * https://wiki.archlinux.org (L)
 * https://www.reddit.com/r/unixporn (L) (M)
 
