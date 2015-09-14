@@ -6,9 +6,9 @@ Pull requests for contributions are more than welcome.
 
 ### H-HOW?
 * https://duckduckgo.com/?q=how*do*I*... (AKA just google it)
+* chrome://browser/content/browser.xul (Firefox chrome url to use with DOM Inspector)
 * man $program
-* man $program
-* man $program
+* yes, man $program
 
 ### GITTING STARTED
 * [W] http://nanami-tan.info
@@ -76,6 +76,7 @@ sudo fc-cache -f -v
 ````
 
 ### FIREFOX
+* chorme://browser/content/browser.xul
 * https://nightly.mozilla.org
 * https://addons.mozilla.org/en-US/firefox/addon/stylish
 * http://www.logicalincrements.com/firefox/
