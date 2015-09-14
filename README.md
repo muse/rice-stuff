@@ -1,8 +1,8 @@
 Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 
-Key: (L) = Linux-only, (W) = Windows-only, (M) = Mac-only
+Key: [L] = Linux-oriented, [W] = Windows-oriented, [M] = Mac-oriented
 
-Pull requests for contributions are welcome.
+Pull requests for contributions are more than welcome.
 
 ### H-HOW?
 * https://duckduckgo.com/?q=how*do*I*... (AKA just google it)
@@ -11,40 +11,40 @@ Pull requests for contributions are welcome.
 * man $program
 
 ### GITTING STARTED
-* http://nanami-tan.info (W)
-* https://www.digitalocean.com/community/tutorial_series/getting-started-with-linux (L)
+* [W] http://nanami-tan.info
+* [L] http://www.linux.com/learn/new-user-guides
 
 ### GITTING GUD
 * http://deviantart.com
-* http://dotshare.it (L) (M)
 * https://github.com/search?o=desc&q=dotfiles&s=stars&type=Repositories
-* https://wiki.archlinux.org (L)
-* https://www.reddit.com/r/unixporn (L) (M)
+* [L] https://wiki.archlinux.org/
+* [L] [M] http://dotshare.it
+* [L] [M] https://reddit.com/r/unixporn
 
 ### WINDOW MANAGERS
-* https://wiki.archlinux.org/index.php/Openbox (L)
-* https://wiki.archlinux.org/index.php/Awesome (L)
-* https://github.com/copycat-killer/lain (Awesome w/ useless gaps) (L)
-* https://wiki.archlinux.org/index.php/I3 (L)
-* https://github.com/Airblader/i3 (i3 w/ useless gaps) (L)
-* https://wiki.archlinux.org/index.php/Bspwm (L)
-* https://wiki.archlinux.org/index.php/Dwm (L)
-* https://wiki.archlinux.org/index.php/Xmonad (L)
-* http://blackbox4windows.com/ (W)
-* https://windawesome.codeplex.com (W)
-* https://code.google.com/p/bugn/wiki/bugn (W)
-* https://github.com/Vibex/qt.pi (W)
-* https://github.com/ragesalmon/TildePlusPlus (W)
+* [L] https://wiki.archlinux.org/index.php/Openbox
+* [L] https://wiki.archlinux.org/index.php/Awesome
+* [L] https://github.com/copycat-killer/lain (Awesome w/ useless gaps)
+* [L] https://wiki.archlinux.org/index.php/I3
+* [L] https://github.com/Airblader/i3 (i3 w/ useless gaps)
+* [L] https://wiki.archlinux.org/index.php/Bspwm
+* [L] https://wiki.archlinux.org/index.php/Dwm
+* [L] https://wiki.archlinux.org/index.php/Xmonad
+* [W] http://blackbox4windows.com/
+* [W] https://windawesome.codeplex.com
+* [W] https://code.google.com/p/bugn/wiki/bugn
+* [W] https://github.com/Vibex/qt.pi
+* [W] https://github.com/ragesalmon/TildePlusPlus
 
 ### TILING
-* https://wiki.archlinux.org/index.php/PyTyle (L)
-* http://twily.info/s/tiling/grid (L)
-* http://download.cnet.com/WinSplit-Revolution/3000-2072_4-10971915.html (W)
-* http://jgpaiva.dcmembers.com/gridmove.html (W)
+* [L] https://wiki.archlinux.org/index.php/PyTyle
+* [L] http://twily.info/s/tiling/grid
+* [W] http://download.cnet.com/WinSplit-Revolution/3000-2072_4-10971915.html
+* [W] http://jgpaiva.dcmembers.com/gridmove.html
 
 ### BARS
-* https://github.com/LemonBoy/bar (L)
-* https://wiki.archlinux.org/index.php/Tint2 (L)
+* [L] https://github.com/LemonBoy/bar
+* [L] https://wiki.archlinux.org/index.php/Tint2
 
 ### COLOR SCHEMES
 * http://terminal.sexy
@@ -85,24 +85,24 @@ sudo fc-cache -f -v
 * http://twily.info/firefox/stylish/firefox-css#view
 
 ### IMAGE VIEWERS
-* https://github.com/lucy/sxiv (L)
-* http://feh.finalrewind.org/ (L)
+* [L] https://github.com/lucy/sxiv
+* [L] http://feh.finalrewind.org/
 
 ### AUDIO
 * http://www.musicpd.org
-* http://ncmpcpp.rybczak.net (L)
-* http://karlstav.github.io/cava (standalone console visualizer) (L)
-* https://github.com/lucy/mpdviz (standalone console visualizer) (L)
-* https://github.com/ViktorNova/nausea (standalone console visualizer) (L)
-* http://www.aimp.ru (W)
-* http://www.foobar2000.org (W)
+* [L] http://ncmpcpp.rybczak.net
+* [L] http://karlstav.github.io/cava (standalone console visualizer)
+* [L] https://github.com/lucy/mpdviz (standalone console visualizer)
+* [L] https://github.com/ViktorNova/nausea (standalone console visualizer)
+* [W] http://www.aimp.ru
+* [W] http://www.foobar2000.org
 
 ### VIDEO
 * https://github.com/mpv-player/mpv
 * https://github.com/mpv-player/mpv/wiki/User-Scripts
-* http://sourceforge.net/projects/mpcbe (W)
-* https://mpc-hc.org (W)
+* [W] http://sourceforge.net/projects/mpcbe
+* [W] https://mpc-hc.org
 
 ### SYSTEM INFO
-* https://github.com/KittyKatt/screenFetch (L) (M)
-* https://github.com/hal-ullr/cmdfetch (W)
+* [W] https://github.com/hal-ullr/cmdfetch
+* [L] [M] https://github.com/KittyKatt/screenFetch
