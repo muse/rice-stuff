@@ -7,6 +7,7 @@ Pull requests for contributions are more than welcome.
 ### H-HOW?
 * https://duckduckgo.com/?q=how*do*I*... (AKA just google it)
 * chrome://browser/content/browser.xul (Firefox chrome url to use with DOM Inspector)
+* https://voat.co/v/technology/comments/459263 (Get rid of the Windows 7/8/8.1 botnet introduced in Windows 10)
 * man $program
 * yes, man $program
 
