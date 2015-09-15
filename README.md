@@ -77,7 +77,8 @@ sudo fc-cache -f -v
 ````
 
 ### FIREFOX
-* chorme://browser/content/browser.xul
+* chorme://browser/content/browser.xul (To use with DOM Inspector)
+* http://pastebin.com/z4hmAWy2
 * https://nightly.mozilla.org
 * https://addons.mozilla.org/en-US/firefox/addon/stylish
 * http://www.logicalincrements.com/firefox/
