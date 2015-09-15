@@ -71,6 +71,7 @@ Pull requests for contributions are more than welcome.
 * https://github.com/chrissimpkins/codeface
 
 On Debian/Ubuntu you need to enable bitmap fonts first:
+
 ````
 sudo rm /etc/fonts/conf.d/70-no-bitmaps.conf
 sudo fc-cache -f -v
