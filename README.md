@@ -88,6 +88,8 @@ sudo fc-cache -f -v
 ### IMAGE VIEWERS
 * [L] https://github.com/lucy/sxiv
 * [L] http://feh.finalrewind.org/
+* [W] http://www.bandisoft.com/honeyview/
+* [W] https://github.com/nothings/stb-imv/
 
 ### AUDIO
 * http://www.musicpd.org
