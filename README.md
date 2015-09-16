@@ -68,6 +68,7 @@ Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 * http://sourceforge.net/projects/console/ <i class="fa fa-windows"></i>
 * https://code.google.com/p/mintty/ <i class="fa fa-windows"></i>
 * https://conemu.github.io/ <i class="fa fa-windows"></i>
+* https://babun.github.io/ <i class="fa fa-windows"></i>
 
 ### COLOR SCHEMES
 * http://terminal.sexy
