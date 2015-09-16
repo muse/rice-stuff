@@ -144,6 +144,7 @@ sudo fc-cache -f -v
   * http://1339.cf
   * https://maxfile.ro
   * http://puush.me/
+  * https://transfer.sh
 * Upload Tools
   * https://github.com/6c37/gone
   * https://getsharex.com/ <i class="fa fa-windows"></i>
