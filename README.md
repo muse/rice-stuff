@@ -55,6 +55,7 @@ Pull requests for contributions are more than welcome.
 * http://www.colourlovers.com
 * http://www.materialpalette.com
 * http://www.transparenttextures.com
+* http://daylerees.github.io/
 
 ### WALLPAPERS
 * http://alpha.wallhaven.cc
