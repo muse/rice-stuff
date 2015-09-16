@@ -44,6 +44,7 @@ Pull requests for contributions are more than welcome.
 * [W] http://jgpaiva.dcmembers.com/gridmove.html
 
 ### BARS
+* [L] https://wiki.archlinux.org/index.php/Dzen
 * [L] https://github.com/LemonBoy/bar
 * [L] https://wiki.archlinux.org/index.php/Tint2
 
@@ -54,6 +55,7 @@ Pull requests for contributions are more than welcome.
 * http://www.colourlovers.com
 * http://www.materialpalette.com
 * http://www.transparenttextures.com
+* http://daylerees.github.io/
 
 ### WALLPAPERS
 * http://alpha.wallhaven.cc
