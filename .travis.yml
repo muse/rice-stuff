@@ -3,6 +3,9 @@ php:
 - 5.4
 env:
   global:
+    - GIT_NAME: "'Couscous auto deploy'"
+    - GIT_EMAIL: couscous@couscous.io
+    - GH_REF: github.com/TheReverend403/rice-stuff
     secure: JD4tYnf+pcBOcaNjkcGydm4y+ST3Ocsyu4nOWxL5uGemKXqEa9OFkhR+21E+bhIAtLm0eEXntvIwDvLx6uUnKXcepIWAtIAQY6gO1usTWsviNopQoTjGEWO9YPrRqge8jEf/jtbdkpgmDjchW/2QjjOvPHYJH4rNwWCrpp1I+Nh03CvtzTM/IgwzviXf6DOiMx8CX6Kh15s5gdOKDgaHPpm1vTvZBLJf35Of2NcgIIlZl/QlSn0iTwHRMZ7XrchHaTL2NOfbnHkeQw0JPEUOVM/bPY1VbFyhQSeUV14e/Nt9S+AL1vAFSRhSZ+iOIGjk1SHb3e2IHWVl59oPkyU/jVTyyocpGOAUku6NQ/tYZKFqF+uvDHax6stBdm2jMnMMwEoxym8stH10hZwo9Sifz0/1jujyGNUMjIHfPMF71s1zlI2xaC63BeAZ5hp2DLuFN3MFgY2OcjOi19r40SBSQPfGR1ZlimZ3PO4CLOa0tJJpDed/EhxurtAnvPjOby/sidLYTgE3ZxQ910tiOmlQ0qBfyD9NKFmGxHpND5vTY1XJ+cXUYJnyCo+0FLjlRYxsLDIFhaEcL6g/3y4Rn/a3LWJvjjm/G/Exy0lO8M4bT1rbls4exXeWK2MdAPEgKLSRv7wEEJ2klYw2sLNWtST7uDjKcBOzQY5VtK7iZV96mhE=
 before_script:
 - composer install --no-progress
