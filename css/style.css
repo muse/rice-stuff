@@ -7,8 +7,18 @@
 	.anchorjs-link {
 		display: none;
 	}
+
 	.gril {
 		display: none;
+	}
+
+	.gh-forkme {
+		display: none;
+	}
+
+	.footer-fixed {
+		position: relative !important;
+		float: right;
 	}
 }
 
@@ -26,4 +36,17 @@
 .gril {
 	position: fixed;
 	bottom: 0px;
+	right: 0px;
+}
+
+.footer-fixed {
+	position: fixed;
+	bottom: 0px;
+}
+
+.gh-forkme {
+	position: fixed;
+	top: 0;
+	right: 0;
+	border: 0;
 }
