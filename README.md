@@ -45,7 +45,6 @@ Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
   * https://github.com/ragesalmon/TildePlusPlus
 
 ### TILING
-* https://wiki.archlinux.org/index.php/PyTyle <i class="fa fa-linux"></i>
 * PyTyle <i class="fa fa-linux"></i>
   * https://wiki.archlinux.org/index.php/PyTyle
   * https://code.google.com/p/pytyle/ (PyTyle 2)
