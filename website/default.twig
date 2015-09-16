@@ -1,53 +1,48 @@
 <!DOCTYPE html>
 <html>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="#rice list o' resources">
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/style.css">
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="#rice list o' resources">
+		<title>#rice list o' resources</title>
+	</head>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="css/stylesheet.css">
+	<body>
 
-    <title>#rice list o' resources</title>
-  </head>
+		<div class="container">
+			<!-- HEADER -->
+			<div class="page-header">
+				<h1>#rice list o' resources <small>Ricing resources for Linux, Mac and Windows.</small></h1>
+			</div>
 
-  <body>
+			<!-- MAIN CONTENT -->
+			<div>
+				{% block content %}
+					{{ content|raw }}
+				{% endblock %}
+			</div>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/TheReverend403/rice-stuff">View on GitHub</a>
+			<!-- FOOTER  -->
+			<div>
+				<footer>
+					<p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+				</footer>
+			</div>
+		</div>
+		
+		<script src="//cdnjs.cloudflare.com/ajax/libs/anchor-js/1.2.1/anchor.min.js"></script>
+		
+		<script type="text/javascript">
+			(function () {
+				'use strict';
+				anchors.options.placement = 'right';
+				anchors.add('h3');
+			})();
+		</script>
 
-          <h1 id="project_title">#rice list o' resources</h1>
-          <h2 id="project_tagline">Ricing resources for Linux, Mac and Windows.</h2>
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        {% block content %}
-            {{ content|raw }}
-        {% endblock %}
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-
-    <script src="//cdnjs.cloudflare.com/ajax/libs/anchor-js/1.2.1/anchor.min.js"></script>
-    <script type="text/javascript">
-      (function () {
-        'use strict';
-        anchors.options.placement = 'right';
-        anchors.add('h3');
-      })();
-    </script>
-
-  </body>
+	</body>
 </html>
