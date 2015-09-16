@@ -93,6 +93,7 @@ sudo fc-cache -f -v
 ### IMAGE VIEWERS
 * [L] https://github.com/lucy/sxiv
 * [L] http://feh.finalrewind.org/
+* [L] http://www.johnhawthorn.com/meh/
 * [W] http://www.bandisoft.com/honeyview/
 * [W] https://github.com/nothings/stb-imv/
 
