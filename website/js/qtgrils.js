@@ -53,7 +53,7 @@
     var sl = document.createElement('img');
     var vx;
 
-	sl.className = 'gril img-responsive';
+	sl.className = 'gril';
 	sl.alt = 'qtgril';
 
     // Apply the element to the body. You can have it appended to a custom
