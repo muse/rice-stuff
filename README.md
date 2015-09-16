@@ -136,6 +136,7 @@ sudo fc-cache -f -v
 ### SYSTEM INFO
 * https://github.com/hal-ullr/cmdfetch <i class="fa fa-windows"></i>
 * https://github.com/KittyKatt/screenFetch <i class="fa fa-linux"></i>
+* https://github.com/djmelik/archey <i class="fa fa-linux"></i>
 
 ### SHARING YOUR RICE
 * File Hosts
