@@ -1,34 +1,32 @@
 <!DOCTYPE html>
 <html>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="#rice list o' resources">
+		<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+		<link href="//maxcdn.bootstrapcdn.com/bootswatch/3.3.5/simplex/bootstrap.min.css" rel="stylesheet">
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+		<link rel="stylesheet" href="css/style.css">
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="#rice list o' resources">
+		<title>#rice list o' resources</title>
+	</head>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="css/stylesheet.css">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+	<body>
+		<a href="https://github.com/TheReverend403/rice-stuff"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"></a>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2">
+					<!-- HEADER -->
+					<div class="page-header">
+						<h1>#rice list o' resources<br><small>Ricing resources for Linux, Mac and Windows.</small></h1>
+					</div>
 
-    <title>#rice list o' resources</title>
-  </head>
-
-  <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/TheReverend403/rice-stuff">View on GitHub</a>
-
-          <h1 id="project_title">#rice list o' resources</h1>
-          <h2 id="project_tagline">Ricing resources for Linux, Mac and Windows.</h2>
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-                    <p>Join us in #rice on irc.rizon.net (<a href="https://qchat.rizon.net/?channels=rice">https://qchat.rizon.net/?channels=rice</a>)</p>
-<p>Pull requests for contributions are more than welcome.</p>
+					<!-- MAIN CONTENT -->
+					<div>
+													<p>Join us in #rice on irc.rizon.net (<a href="https://qchat.rizon.net/?channels=rice">https://qchat.rizon.net/?channels=rice</a>)</p>
+<p><a href="https://github.com/TheReverend403/rice-stuff">Pull requests</a> for contributions are more than welcome.</p>
 <h3 id="h-how">H-HOW?</h3>
 <ul>
 <li><a href="https://duckduckgo.com/?q=how*do*I">https://duckduckgo.com/?q=how*do*I</a>*... (AKA just google it)</li>
@@ -71,11 +69,14 @@
 <li><a href="https://github.com/SirCmpwn/sway">https://github.com/SirCmpwn/sway</a></li>
 <li><a href="https://github.com/Cloudef/orbment">https://github.com/Cloudef/orbment</a></li>
 </ul></li>
-<li><a href="http://blackbox4windows.com/">http://blackbox4windows.com/</a> <i class="fa fa-windows"></i></li>
-<li><a href="https://windawesome.codeplex.com">https://windawesome.codeplex.com</a> <i class="fa fa-windows"></i></li>
-<li><a href="https://code.google.com/p/bugn/wiki/bugn">https://code.google.com/p/bugn/wiki/bugn</a> <i class="fa fa-windows"></i></li>
-<li><a href="https://github.com/Vibex/qt.pi">https://github.com/Vibex/qt.pi</a> <i class="fa fa-windows"></i></li>
-<li><a href="https://github.com/ragesalmon/TildePlusPlus">https://github.com/ragesalmon/TildePlusPlus</a> <i class="fa fa-windows"></i></li>
+<li>Windows <i class="fa fa-windows"></i>
+<ul>
+<li><a href="http://blackbox4windows.com/">http://blackbox4windows.com/</a></li>
+<li><a href="https://windawesome.codeplex.com">https://windawesome.codeplex.com</a></li>
+<li><a href="https://code.google.com/p/bugn/wiki/bugn">https://code.google.com/p/bugn/wiki/bugn</a></li>
+<li><a href="https://github.com/Vibex/qt.pi">https://github.com/Vibex/qt.pi</a></li>
+<li><a href="https://github.com/ragesalmon/TildePlusPlus">https://github.com/ragesalmon/TildePlusPlus</a></li>
+</ul></li>
 </ul>
 <h3 id="tiling">TILING</h3>
 <ul>
@@ -128,7 +129,7 @@
 <li><a href="https://github.com/chrissimpkins/codeface">https://github.com/chrissimpkins/codeface</a></li>
 </ul>
 <p>On Debian/Ubuntu you need to enable bitmap fonts first:</p>
-<pre><code>sudo rm /etc/fonts/conf.d/70-no-bitmaps.conf
+<pre><code class="language-bash">sudo rm /etc/fonts/conf.d/70-no-bitmaps.conf
 sudo fc-cache -f -v</code></pre>
 <h3 id="firefox">FIREFOX</h3>
 <ul>
@@ -152,11 +153,9 @@ sudo fc-cache -f -v</code></pre>
 </ul>
 <h3 id="audio">AUDIO</h3>
 <ul>
-<li><a href="http://www.musicpd.org">http://www.musicpd.org</a>
-<ul>
+<li><a href="http://www.musicpd.org">http://www.musicpd.org</a></li>
 <li><a href="http://ncmpcpp.rybczak.net">http://ncmpcpp.rybczak.net</a> <i class="fa fa-linux"></i></li>
-</ul></li>
-<li><a href="http://karlstav.github.io/cava">http://karlstav.github.io/cava</a> (standalone console visua <i class="fa fa-linux"></i>lizer)</li>
+<li><a href="http://karlstav.github.io/cava">http://karlstav.github.io/cava</a> (standalone console visualizer) <i class="fa fa-linux"></i></li>
 <li><a href="https://github.com/lucy/mpdviz">https://github.com/lucy/mpdviz</a> (standalone console visualizer) <i class="fa fa-linux"></i></li>
 <li><a href="https://github.com/ViktorNova/nausea">https://github.com/ViktorNova/nausea</a> (standalone console visualizer) <i class="fa fa-linux"></i></li>
 <li><a href="http://www.aimp.ru">http://www.aimp.ru</a> <i class="fa fa-windows"></i></li>
@@ -180,25 +179,28 @@ sudo fc-cache -f -v</code></pre>
 <li><a href="https://github.com/hal-ullr/cmdfetch">https://github.com/hal-ullr/cmdfetch</a> <i class="fa fa-windows"></i></li>
 <li><a href="https://github.com/KittyKatt/screenFetch">https://github.com/KittyKatt/screenFetch</a> <i class="fa fa-linux"></i></li>
 </ul>
-              </section>
-    </div>
+											</div>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
+				</div>
+			</div>
+		</div>
 
+		<!-- FOOTER  -->
+		<div class="container-fluid text-right">
+			<footer>
+				<p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+			</footer>
+		</div>
+		
+		<script src="//cdnjs.cloudflare.com/ajax/libs/anchor-js/1.2.1/anchor.min.js"></script>
+		
+		<script type="text/javascript">
+			(function () {
+				'use strict';
+				anchors.options.placement = 'right';
+				anchors.add('h3');
+			})();
+		</script>
 
-    <script src="//cdnjs.cloudflare.com/ajax/libs/anchor-js/1.2.1/anchor.min.js"></script>
-    <script type="text/javascript">
-      (function () {
-        'use strict';
-        anchors.options.placement = 'right';
-        anchors.add('h3');
-      })();
-    </script>
-
-  </body>
+	</body>
 </html>
