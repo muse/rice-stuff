@@ -115,7 +115,7 @@ sudo fc-cache -f -v
 
 ### AUDIO
 * http://www.musicpd.org
-* [L] http://ncmpcpp.rybczak.net
+  * [L] http://ncmpcpp.rybczak.net
 * [L] http://karlstav.github.io/cava (standalone console visualizer)
 * [L] https://github.com/lucy/mpdviz (standalone console visualizer)
 * [L] https://github.com/ViktorNova/nausea (standalone console visualizer)
@@ -127,6 +127,10 @@ sudo fc-cache -f -v
 * https://github.com/mpv-player/mpv/wiki/User-Scripts
 * [W] http://sourceforge.net/projects/mpcbe
 * [W] https://mpc-hc.org
+
+### IRC
+* https://hexchat.github.io/
+* https://weechat.org/
 
 ### SYSTEM INFO
 * [W] https://github.com/hal-ullr/cmdfetch
