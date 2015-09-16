@@ -23,15 +23,15 @@ Pull requests for contributions are more than welcome.
 * [L] [M] https://reddit.com/r/unixporn
 
 ### WINDOW MANAGERS
-##### [L] X
-* https://wiki.archlinux.org/index.php/Openbox
-* https://wiki.archlinux.org/index.php/Awesome
-* https://github.com/copycat-killer/lain (Awesome w/ useless gaps)
-* https://wiki.archlinux.org/index.php/I3
-* https://github.com/Airblader/i3 (i3 w/ useless gaps)
-* https://wiki.archlinux.org/index.php/Bspwm
-* https://wiki.archlinux.org/index.php/Dwm
-* https://wiki.archlinux.org/index.php/Xmonad
+* [L] X11
+  * https://wiki.archlinux.org/index.php/Openbox
+  * https://wiki.archlinux.org/index.php/Awesome
+  * https://github.com/copycat-killer/lain (Awesome w/ useless gaps)
+  * https://wiki.archlinux.org/index.php/I3
+  * https://github.com/Airblader/i3 (i3 w/ useless gaps)
+  * https://wiki.archlinux.org/index.php/Bspwm
+  * https://wiki.archlinux.org/index.php/Dwm
+  * https://wiki.archlinux.org/index.php/Xmonad
 * [W] http://blackbox4windows.com/
 * [W] https://windawesome.codeplex.com
 * [W] https://code.google.com/p/bugn/wiki/bugn
