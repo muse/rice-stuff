@@ -135,8 +135,8 @@ sudo fc-cache -f -v
 
 ### IRC
 * https://hexchat.github.io/
-* https://weechat.org/ <i class="fa fa-linux"></i>
-* http://www.irssi.org/ <i class="fa fa-linux"></i>
+* https://weechat.org/ <i class="fa fa-linux"></i> <i class="fa fa-apple"></i>
+* http://www.irssi.org/ <i class="fa fa-linux"></i> <i class="fa fa-apple"></i>
 
 ### SYSTEM INFO
 * https://github.com/hal-ullr/cmdfetch <i class="fa fa-windows"></i>
