@@ -19,7 +19,7 @@ Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 * https://wiki.archlinux.org/ <i class="fa fa-linux"></i>
 * http://dotshare.it <i class="fa fa-linux"></i> <i class="fa fa-apple"></i>
 * https://reddit.com/r/unixporn <i class="fa fa-linux"></i> <i class="fa fa-apple"></i>
-* https://reddit.com/r/customization <i class="fa fa-windows">
+* https://reddit.com/r/customization <i class="fa fa-windows"></i>
 
 ### WINDOW MANAGERS
 * X11 <i class="fa fa-linux"></i>
