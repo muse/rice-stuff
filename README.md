@@ -149,3 +149,10 @@ sudo fc-cache -f -v
   * https://getsharex.com/ <i class="fa fa-windows"></i>
   * https://github.com/jschx/uguush <i class="fa fa-linux"></i>
   * http://puush.me/ <i class="fa fa-windows"></i> <i class="fa fa-apple"></i>
+* Screenshot Tools
+  * https://github.com/naelstrof/maim <i class="fa fa-linux"></i>
+  * http://www.imagemagick.org/script/import.php
+  * http://freecode.com/projects/scrot <i class="fa fa-linux"></i>
+* Pastebins
+  * https://p.teknik.io
+  * https://spit.mixtape.moe
