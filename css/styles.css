@@ -390,7 +390,7 @@ fieldset {
 
 /*
  * 1. Corrects color not being inherited in IE6/7/8/9
- * 2. Corrects text not wrapping in FF3 
+ * 2. Corrects text not wrapping in FF3
  * 3. Corrects alignment displayed oddly in IE6/7
  */
 legend {
@@ -848,4 +848,28 @@ section #title .credits.right {
   nav {
     display: none;
   }
+}
+
+.anchorjs-link {
+  color: inherit !important;
+  text-decoration: none !important; // do not underline
+}
+
+@media (max-width: 768px) {
+  // do not display AnchorJS icon on less than 768px view point
+  .anchorjs-link {
+    display: none;
+  }
+}
+
+*:hover > .anchorjs-link {
+  opacity: .75;
+  // To fade links as they appear, change transition-property from 'color' to 'all'
+  transition: color .16s linear;
+}
+
+*:hover > .anchorjs-link:hover,
+.anchorjs-link:focus {
+  text-decoration: none !important; // do not underline
+  opacity: 1;
 }
