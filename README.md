@@ -45,6 +45,11 @@ Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 
 ### TILING
 * https://wiki.archlinux.org/index.php/PyTyle <i class="fa fa-linux"></i>
+* PyTyle <i class="fa fa-linux"></i>
+  * https://wiki.archlinux.org/index.php/PyTyle
+  * https://code.google.com/p/pytyle/ (PyTyle 2)
+  * https://github.com/BurntSushi/pytyle3
+  * Differences: https://bbs.archlinux.org/viewtopic.php?pid=1058199#p1058199
 * http://twily.info/s/tiling/grid <i class="fa fa-linux"></i>
 * http://download.cnet.com/WinSplit-Revolution/3000-2072_4-10971915.html <i class="fa fa-windows"></i>
 * http://jgpaiva.dcmembers.com/gridmove.html <i class="fa fa-windows"></i>
