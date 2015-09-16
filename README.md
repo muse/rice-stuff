@@ -4,25 +4,25 @@ Key: [L] = Linux-oriented, [W] = Windows-oriented, [M] = Mac-oriented
 
 Pull requests for contributions are more than welcome.
 
-### H-HOW?
+### [H-HOW?](#how)
 * https://duckduckgo.com/?q=how*do*I*... (AKA just google it)
 * chrome://browser/content/browser.xul (Firefox chrome url to use with DOM Inspector)
 * https://voat.co/v/technology/comments/459263 (Get rid of the Windows 10 botnet)
 * man $program
 * yes, man $program
 
-### GITTING STARTED
+### [GITTING STARTED](#get-started)
 * [W] http://nanami-tan.info
 * [L] http://www.linux.com/learn/new-user-guides
 
-### GITTING GUD
+### [GITTING GUD](#get-good)
 * http://deviantart.com
 * https://github.com/search?o=desc&q=dotfiles&s=stars&type=Repositories
 * [L] https://wiki.archlinux.org/
 * [L] [M] http://dotshare.it
 * [L] [M] https://reddit.com/r/unixporn
 
-### WINDOW MANAGERS
+### [WINDOW MANAGERS](#window-managers)
 * [L] X11
   * https://wiki.archlinux.org/index.php/Openbox
   * https://wiki.archlinux.org/index.php/Awesome
@@ -44,18 +44,18 @@ Pull requests for contributions are more than welcome.
 * [W] https://github.com/Vibex/qt.pi
 * [W] https://github.com/ragesalmon/TildePlusPlus
 
-### TILING
+### [TILING](#tiling)
 * [L] https://wiki.archlinux.org/index.php/PyTyle
 * [L] http://twily.info/s/tiling/grid
 * [W] http://download.cnet.com/WinSplit-Revolution/3000-2072_4-10971915.html
 * [W] http://jgpaiva.dcmembers.com/gridmove.html
 
-### BARS
+### [BARS](#bars)
 * [L] https://wiki.archlinux.org/index.php/Dzen
 * [L] https://github.com/LemonBoy/bar
 * [L] https://wiki.archlinux.org/index.php/Tint2
 
-### TERMINAL EMULATORS
+### [TERMINAL EMULATORS](#terms)
 * [L] https://github.com/thestinger/termite
 * [L] https://wiki.archlinux.org/index.php/Rxvt-unicode
 * [L] http://st.suckless.org/
@@ -64,7 +64,7 @@ Pull requests for contributions are more than welcome.
 * [W] http://sourceforge.net/projects/console/
 * [W] https://code.google.com/p/mintty/
 
-### COLOR SCHEMES
+### [COLOR SCHEMES](#colors)
 * http://terminal.sexy
 * http://paletton.com/
 * http://www.xcolors.net
@@ -73,7 +73,7 @@ Pull requests for contributions are more than welcome.
 * http://www.transparenttextures.com
 * http://daylerees.github.io/
 
-### WALLPAPERS
+### [WALLPAPERS](#wallpapers)
 * http://alpha.wallhaven.cc
 * http://simpledesktops.com
 * http://subtlepatterns.com
@@ -83,7 +83,7 @@ Pull requests for contributions are more than welcome.
 * http://www.stripegenerator.com
 * http://www.tartanmaker.com
 
-### FONTS
+### [FONTS](#fonts)
 * http://www.dafont.com
 * https://github.com/Tecate/bitmap-fonts
 * https://github.com/chrissimpkins/codeface
@@ -95,7 +95,7 @@ sudo rm /etc/fonts/conf.d/70-no-bitmaps.conf
 sudo fc-cache -f -v
 ````
 
-### FIREFOX
+### [FIREFOX](#firefox)
 * chrome://browser/content/browser.xul (To use with DOM Inspector)
 * http://pastebin.com/z4hmAWy2
 * https://nightly.mozilla.org
@@ -106,14 +106,14 @@ sudo fc-cache -f -v
 * https://github.com/yukisuki/startpage
 * http://twily.info/firefox/stylish/firefox-css#view
 
-### IMAGE VIEWERS
+### [IMAGE VIEWERS](#image-viewers)
 * [L] https://github.com/lucy/sxiv
 * [L] http://feh.finalrewind.org/
 * [L] http://www.johnhawthorn.com/meh/
 * [W] http://www.bandisoft.com/honeyview/
 * [W] https://github.com/nothings/stb-imv/
 
-### AUDIO
+### [AUDIO](#audio)
 * http://www.musicpd.org
   * [L] http://ncmpcpp.rybczak.net
 * [L] http://karlstav.github.io/cava (standalone console visualizer)
@@ -122,16 +122,16 @@ sudo fc-cache -f -v
 * [W] http://www.aimp.ru
 * [W] http://www.foobar2000.org
 
-### VIDEO
+### [VIDEO](#video)
 * https://github.com/mpv-player/mpv
 * https://github.com/mpv-player/mpv/wiki/User-Scripts
 * [W] http://sourceforge.net/projects/mpcbe
 * [W] https://mpc-hc.org
 
-### IRC
+### [IRC](#irc)
 * https://hexchat.github.io/
 * https://weechat.org/
 
-### SYSTEM INFO
+### [SYSTEM INFO](#sysinfo)
 * [W] https://github.com/hal-ullr/cmdfetch
 * [L] [M] https://github.com/KittyKatt/screenFetch
