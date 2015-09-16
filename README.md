@@ -29,9 +29,15 @@ Pull requests for contributions are more than welcome.
   * https://github.com/copycat-killer/lain (Awesome w/ useless gaps)
   * https://wiki.archlinux.org/index.php/I3
   * https://github.com/Airblader/i3 (i3 w/ useless gaps)
+  * http://www.qtile.org/
+  * http://www.herbstluftwm.org/
   * https://wiki.archlinux.org/index.php/Bspwm
   * https://wiki.archlinux.org/index.php/Dwm
   * https://wiki.archlinux.org/index.php/Xmonad
+* [L] Wayland
+  * https://github.com/michaelforney/velox
+  * https://github.com/SirCmpwn/sway
+  * https://github.com/Cloudef/orbment
 * [W] http://blackbox4windows.com/
 * [W] https://windawesome.codeplex.com
 * [W] https://code.google.com/p/bugn/wiki/bugn
