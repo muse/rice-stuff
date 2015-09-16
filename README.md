@@ -135,3 +135,9 @@ sudo fc-cache -f -v
 ### SYSTEM INFO
 * https://github.com/hal-ullr/cmdfetch <i class="fa fa-windows"></i>
 * https://github.com/KittyKatt/screenFetch <i class="fa fa-linux"></i>
+
+### SHARING YOUR RICE
+* https://u.teknik.io
+* https://mixtape.moe
+* http://1339.cf
+* https://maxfile.ro
