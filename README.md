@@ -1,6 +1,6 @@
 Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 
-Pull requests for contributions are more than welcome.
+[Pull requests](https://github.com/TheReverend403/rice-stuff) for contributions are more than welcome.
 
 ### H-HOW?
 * https://duckduckgo.com/?q=how*do*I*... (AKA just google it)
@@ -36,11 +36,12 @@ Pull requests for contributions are more than welcome.
   * https://github.com/michaelforney/velox
   * https://github.com/SirCmpwn/sway
   * https://github.com/Cloudef/orbment
-* http://blackbox4windows.com/ <i class="fa fa-windows"></i>
-* https://windawesome.codeplex.com <i class="fa fa-windows"></i>
-* https://code.google.com/p/bugn/wiki/bugn <i class="fa fa-windows"></i>
-* https://github.com/Vibex/qt.pi <i class="fa fa-windows"></i>
-* https://github.com/ragesalmon/TildePlusPlus <i class="fa fa-windows"></i>
+* Windows <i class="fa fa-windows"></i>
+  * http://blackbox4windows.com/
+  * https://windawesome.codeplex.com
+  * https://code.google.com/p/bugn/wiki/bugn
+  * https://github.com/Vibex/qt.pi
+  * https://github.com/ragesalmon/TildePlusPlus
 
 ### TILING
 * https://wiki.archlinux.org/index.php/PyTyle <i class="fa fa-linux"></i>
@@ -88,10 +89,10 @@ Pull requests for contributions are more than welcome.
 
 On Debian/Ubuntu you need to enable bitmap fonts first:
 
-````
+```bash
 sudo rm /etc/fonts/conf.d/70-no-bitmaps.conf
 sudo fc-cache -f -v
-````
+```
 
 ### FIREFOX
 * chrome://browser/content/browser.xul (To use with DOM Inspector)
@@ -113,8 +114,8 @@ sudo fc-cache -f -v
 
 ### AUDIO
 * http://www.musicpd.org
-  * http://ncmpcpp.rybczak.net <i class="fa fa-linux"></i>
-* http://karlstav.github.io/cava (standalone console visua <i class="fa fa-linux"></i>lizer)
+*  http://ncmpcpp.rybczak.net <i class="fa fa-linux"></i>
+* http://karlstav.github.io/cava (standalone console visualizer) <i class="fa fa-linux"></i>
 * https://github.com/lucy/mpdviz (standalone console visualizer) <i class="fa fa-linux"></i>
 * https://github.com/ViktorNova/nausea (standalone console visualizer) <i class="fa fa-linux"></i>
 * http://www.aimp.ru <i class="fa fa-windows"></i>
