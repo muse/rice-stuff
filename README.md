@@ -13,7 +13,7 @@ Pull requests for contributions are more than welcome.
 
 ### GITTING STARTED
 * [W] http://nanami-tan.info
-* [L] http://www.linux.com/learn/new-user-guides
+* http://www.linux.com/learn/new-user-guides <i class="fa fa-linux"></i>
 
 ### GITTING GUD
 * http://deviantart.com
