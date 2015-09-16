@@ -15,7 +15,7 @@ Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 
 ### GITTING GUD
 * http://deviantart.com
-* https://github.com/search?o=desc&q=dotfiles&s=stars&type=Repositories
+* https://github.com/search?o=desc&amp;q=dotfiles&amp;s=stars&amp;type=Repositories
 * https://wiki.archlinux.org/ <i class="fa fa-linux"></i>
 * http://dotshare.it <i class="fa fa-linux"></i> <i class="fa fa-apple"></i>
 * https://reddit.com/r/unixporn <i class="fa fa-linux"></i> <i class="fa fa-apple"></i>
