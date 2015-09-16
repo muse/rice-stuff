@@ -55,6 +55,15 @@ Pull requests for contributions are more than welcome.
 * [L] https://github.com/LemonBoy/bar
 * [L] https://wiki.archlinux.org/index.php/Tint2
 
+### TERMINAL EMULATORS
+* [L] https://github.com/thestinger/termite
+* [L] https://wiki.archlinux.org/index.php/Rxvt-unicode
+* [L] http://st.suckless.org/
+* [L] https://wiki.archlinux.org/index.php/Terminator
+* [M] https://www.iterm2.com/
+* [W] http://sourceforge.net/projects/console/
+* [W] https://code.google.com/p/mintty/
+
 ### COLOR SCHEMES
 * http://terminal.sexy
 * http://paletton.com/
