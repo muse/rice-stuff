@@ -10,23 +10,14 @@
 }
 
 @media (max-width: 1100px) {
-	.gril {
+	.img-sticky {
 		display: none;
-	}
-
-	.gh-forkme {
-		display: none;
-	}
-
-	.footer-fixed {
-		position: relative !important;
-		float: right;
 	}
 }
 
 *:hover > .anchorjs-link {
 	opacity: .75;
-	transition: color .16s linear;
+	transition: all .16s linear;
 }
 
 *:hover > .anchorjs-link:hover,
@@ -35,7 +26,7 @@
 	opacity: 1;
 }
 
-.gril {
+.img-sticky {
 	position: fixed;
 	bottom: 0px;
 	right: 0px;
@@ -43,13 +34,5 @@
 }
 
 .footer-fixed {
-	position: fixed;
-	bottom: 0px;
-}
-
-.gh-forkme {
-	position: fixed;
-	top: 0;
-	right: 0;
-	border: 0;
+	float: right;
 }
