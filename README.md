@@ -168,5 +168,5 @@ sudo fc-cache -f -v
 * Pastebins
   * https://p.teknik.io
   * https://spit.mixtape.moe
-  * https://ix.io
-  * https://sprunge.us
+  * http://ix.io
+  * http://sprunge.us
