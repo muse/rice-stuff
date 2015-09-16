@@ -24,9 +24,9 @@ Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 * X11 <i class="fa fa-linux"></i>
   * https://wiki.archlinux.org/index.php/Openbox
   * https://wiki.archlinux.org/index.php/Awesome
-  * https://github.com/copycat-killer/lain (Awesome w/ useless gaps)
+    * https://github.com/copycat-killer/lain (Awesome w/ useless gaps)
   * https://wiki.archlinux.org/index.php/I3
-  * https://github.com/Airblader/i3 (i3 w/ useless gaps)
+    * https://github.com/Airblader/i3 (i3 w/ useless gaps)
   * http://www.qtile.org/
   * http://www.herbstluftwm.org/
   * https://wiki.archlinux.org/index.php/Bspwm
@@ -84,8 +84,8 @@ Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 
 ### FONTS
 * http://www.dafont.com
-* https://github.com/Tecate/bitmap-fonts
 * https://github.com/chrissimpkins/codeface
+* https://github.com/Tecate/bitmap-fonts
 
 On Debian/Ubuntu you need to enable bitmap fonts first:
 
@@ -114,10 +114,10 @@ sudo fc-cache -f -v
 
 ### AUDIO
 * http://www.musicpd.org
-*  http://ncmpcpp.rybczak.net <i class="fa fa-linux"></i>
-* http://karlstav.github.io/cava (standalone console visualizer) <i class="fa fa-linux"></i>
-* https://github.com/lucy/mpdviz (standalone console visualizer) <i class="fa fa-linux"></i>
-* https://github.com/ViktorNova/nausea (standalone console visualizer) <i class="fa fa-linux"></i>
+  * http://ncmpcpp.rybczak.net <i class="fa fa-linux"></i>
+  * http://karlstav.github.io/cava (standalone console visualizer) <i class="fa fa-linux"></i>
+  * https://github.com/lucy/mpdviz (standalone console visualizer) <i class="fa fa-linux"></i>
+  * https://github.com/ViktorNova/nausea (standalone console visualizer) <i class="fa fa-linux"></i>
 * http://www.aimp.ru <i class="fa fa-windows"></i>
 * http://www.foobar2000.org <i class="fa fa-windows"></i>
 
