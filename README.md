@@ -1,7 +1,5 @@
 Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 
-Key: [L] = Linux-oriented, [W] = Windows-oriented, [M] = Mac-oriented
-
 Pull requests for contributions are more than welcome.
 
 ### H-HOW?
@@ -12,18 +10,18 @@ Pull requests for contributions are more than welcome.
 * yes, man $program
 
 ### GITTING STARTED
-* [W] http://nanami-tan.info
+* http://nanami-tan.info <i class="fa fa-windows"></i>
 * http://www.linux.com/learn/new-user-guides <i class="fa fa-linux"></i>
 
 ### GITTING GUD
 * http://deviantart.com
 * https://github.com/search?o=desc&q=dotfiles&s=stars&type=Repositories
-* [L] https://wiki.archlinux.org/
-* [L] [M] http://dotshare.it
-* [L] [M] https://reddit.com/r/unixporn
+* https://wiki.archlinux.org/ <i class="fa fa-linux"></i>
+* http://dotshare.it <i class="fa fa-linux"></i> <i class="fa fa-apple"></i>
+* https://reddit.com/r/unixporn <i class="fa fa-linux"></i> <i class="fa fa-apple"></i>
 
 ### WINDOW MANAGERS
-* [L] X11
+* X11 <i class="fa fa-linux"></i>
   * https://wiki.archlinux.org/index.php/Openbox
   * https://wiki.archlinux.org/index.php/Awesome
   * https://github.com/copycat-killer/lain (Awesome w/ useless gaps)
@@ -34,35 +32,35 @@ Pull requests for contributions are more than welcome.
   * https://wiki.archlinux.org/index.php/Bspwm
   * https://wiki.archlinux.org/index.php/Dwm
   * https://wiki.archlinux.org/index.php/Xmonad
-* [L] Wayland
+* Wayland <i class="fa fa-linux"></i>
   * https://github.com/michaelforney/velox
   * https://github.com/SirCmpwn/sway
   * https://github.com/Cloudef/orbment
-* [W] http://blackbox4windows.com/
-* [W] https://windawesome.codeplex.com
-* [W] https://code.google.com/p/bugn/wiki/bugn
-* [W] https://github.com/Vibex/qt.pi
-* [W] https://github.com/ragesalmon/TildePlusPlus
+* http://blackbox4windows.com/ <i class="fa fa-windows"></i>
+* https://windawesome.codeplex.com <i class="fa fa-windows"></i>
+* https://code.google.com/p/bugn/wiki/bugn <i class="fa fa-windows"></i>
+* https://github.com/Vibex/qt.pi <i class="fa fa-windows"></i>
+* https://github.com/ragesalmon/TildePlusPlus <i class="fa fa-windows"></i>
 
 ### TILING
-* [L] https://wiki.archlinux.org/index.php/PyTyle
-* [L] http://twily.info/s/tiling/grid
-* [W] http://download.cnet.com/WinSplit-Revolution/3000-2072_4-10971915.html
-* [W] http://jgpaiva.dcmembers.com/gridmove.html
+* https://wiki.archlinux.org/index.php/PyTyle <i class="fa fa-linux"></i>
+* http://twily.info/s/tiling/grid <i class="fa fa-linux"></i>
+* http://download.cnet.com/WinSplit-Revolution/3000-2072_4-10971915.html <i class="fa fa-windows"></i>
+* http://jgpaiva.dcmembers.com/gridmove.html <i class="fa fa-windows"></i>
 
 ### BARS
-* [L] https://wiki.archlinux.org/index.php/Dzen
-* [L] https://github.com/LemonBoy/bar
-* [L] https://wiki.archlinux.org/index.php/Tint2
+* https://wiki.archlinux.org/index.php/Dzen <i class="fa fa-linux"></i>
+* https://github.com/LemonBoy/bar <i class="fa fa-linux"></i>
+* https://wiki.archlinux.org/index.php/Tint2 <i class="fa fa-linux"></i>
 
 ### TERMINAL EMULATORS
-* [L] https://github.com/thestinger/termite
-* [L] https://wiki.archlinux.org/index.php/Rxvt-unicode
-* [L] http://st.suckless.org/
-* [L] https://wiki.archlinux.org/index.php/Terminator
-* [M] https://www.iterm2.com/
-* [W] http://sourceforge.net/projects/console/
-* [W] https://code.google.com/p/mintty/
+* https://github.com/thestinger/termite <i class="fa fa-linux"></i>
+* https://wiki.archlinux.org/index.php/Rxvt-unicode <i class="fa fa-linux"></i>
+* http://st.suckless.org/ <i class="fa fa-linux"></i>
+* https://wiki.archlinux.org/index.php/Terminator <i class="fa fa-linux"></i>
+* https://www.iterm2.com <i class="fa fa-apple"></i>
+* http://sourceforge.net/projects/console/ <i class="fa fa-windows"></i>
+* https://code.google.com/p/mintty/ <i class="fa fa-windows"></i>
 
 ### COLOR SCHEMES
 * http://terminal.sexy
@@ -107,32 +105,32 @@ sudo fc-cache -f -v
 * http://twily.info/firefox/stylish/firefox-css#view
 
 ### IMAGE VIEWERS
-* [L] https://github.com/lucy/sxiv
-* [L] http://feh.finalrewind.org/
-* [L] http://www.johnhawthorn.com/meh/
-* [W] http://www.bandisoft.com/honeyview/
-* [W] https://github.com/nothings/stb-imv/
+* https://github.com/lucy/sxiv <i class="fa fa-linux"></i>
+* http://feh.finalrewind.org/ <i class="fa fa-linux"></i>
+* http://www.johnhawthorn.com/meh/ <i class="fa fa-linux"></i>
+* http://www.bandisoft.com/honeyview/ <i class="fa fa-windows"></i>
+* https://github.com/nothings/stb-imv/ <i class="fa fa-windows"></i>
 
 ### AUDIO
 * http://www.musicpd.org
-  * [L] http://ncmpcpp.rybczak.net
-* [L] http://karlstav.github.io/cava (standalone console visualizer)
-* [L] https://github.com/lucy/mpdviz (standalone console visualizer)
-* [L] https://github.com/ViktorNova/nausea (standalone console visualizer)
-* [W] http://www.aimp.ru
-* [W] http://www.foobar2000.org
+  * http://ncmpcpp.rybczak.net <i class="fa fa-linux"></i>
+* http://karlstav.github.io/cava (standalone console visua <i class="fa fa-linux"></i>lizer)
+* https://github.com/lucy/mpdviz (standalone console visualizer) <i class="fa fa-linux"></i>
+* https://github.com/ViktorNova/nausea (standalone console visualizer) <i class="fa fa-linux"></i>
+* http://www.aimp.ru <i class="fa fa-windows"></i>
+* http://www.foobar2000.org <i class="fa fa-windows"></i>
 
 ### VIDEO
 * https://github.com/mpv-player/mpv
 * https://github.com/mpv-player/mpv/wiki/User-Scripts
-* [W] http://sourceforge.net/projects/mpcbe
-* [W] https://mpc-hc.org
+* http://sourceforge.net/projects/mpcbe <i class="fa fa-windows"></i>
+* https://mpc-hc.org <i class="fa fa-windows"></i>
 
 ### IRC
 * https://hexchat.github.io/
-* https://weechat.org/
-* http://www.irssi.org/
+* https://weechat.org/ <i class="fa fa-linux"></i>
+* http://www.irssi.org/ <i class="fa fa-linux"></i>
 
 ### SYSTEM INFO
-* [W] https://github.com/hal-ullr/cmdfetch
-* [L] [M] https://github.com/KittyKatt/screenFetch
+* https://github.com/hal-ullr/cmdfetch <i class="fa fa-windows"></i>
+* https://github.com/KittyKatt/screenFetch <i class="fa fa-linux"></i>
