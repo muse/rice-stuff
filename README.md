@@ -44,6 +44,7 @@ Pull requests for contributions are more than welcome.
 * [W] http://jgpaiva.dcmembers.com/gridmove.html
 
 ### BARS
+* [L] https://wiki.archlinux.org/index.php/Dzen
 * [L] https://github.com/LemonBoy/bar
 * [L] https://wiki.archlinux.org/index.php/Tint2
 
