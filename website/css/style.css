@@ -1,23 +1,29 @@
 .anchorjs-link {
-  color: inherit !important;
-  text-decoration: none !important; // do not underline
+	color: inherit !important;
+	text-decoration: none !important;
 }
 
 @media (max-width: 768px) {
-  // do not display AnchorJS icon on less than 768px view point
-  .anchorjs-link {
-    display: none;
-  }
+	.anchorjs-link {
+		display: none;
+	}
+	.gril {
+		display: none;
+	}
 }
 
 *:hover > .anchorjs-link {
-  opacity: .75;
-  // To fade links as they appear, change transition-property from 'color' to 'all'
-  transition: color .16s linear;
+	opacity: .75;
+	transition: color .16s linear;
 }
 
 *:hover > .anchorjs-link:hover,
 .anchorjs-link:focus {
-  text-decoration: none !important; // do not underline
-  opacity: 1;
+	text-decoration: none !important;
+	opacity: 1;
+}
+
+.gril {
+	position: fixed;
+	bottom: 0px;
 }
