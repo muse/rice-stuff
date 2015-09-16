@@ -138,7 +138,14 @@ sudo fc-cache -f -v
 * https://github.com/KittyKatt/screenFetch <i class="fa fa-linux"></i>
 
 ### SHARING YOUR RICE
-* https://u.teknik.io
-* https://mixtape.moe
-* http://1339.cf
-* https://maxfile.ro
+* File Hosts
+  * https://u.teknik.io
+  * https://mixtape.moe
+  * http://1339.cf
+  * https://maxfile.ro
+  * http://puush.me/
+* Upload Tools
+  * https://github.com/6c37/gone
+  * https://getsharex.com/ <i class="fa fa-windows"></i>
+  * https://github.com/jschx/uguush <i class="fa fa-linux"></i>
+  * http://puush.me/ <i class="fa fa-windows"></i> <i class="fa fa-apple"></i>
