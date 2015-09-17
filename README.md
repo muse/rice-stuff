@@ -2,76 +2,102 @@ Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 
 [Pull requests](https://github.com/TheReverend403/rice-stuff) for contributions are more than welcome.
 
-### H-HOW?
-* https://duckduckgo.com/?q=how*do*I*... (AKA just google it)
-* chrome://browser/content/browser.xul (Firefox chrome url to use with DOM Inspector)
-* https://voat.co/v/technology/comments/459263 (Get rid of the Windows 10 botnet)
-* man $program
-* yes, man $program
+# Table of contents
+- [A quick summary](#how?)
+- [Window managers](#window-managers)
+- [Tiling](#tiling)
 
-### GITTING STARTED
-* http://nanami-tan.info <i class="fa fa-windows"></i>
-* http://www.linux.com/learn/new-user-guides <i class="fa fa-linux"></i>
+# How?
+First of all; ricing won't be an easy task. I mean, sure you can copy the config
+files from someone else and live with that. But that kind of ruins the fun of it all. 
 
-### GITTING GUD
-* http://deviantart.com
-* https://github.com/search?o=desc&amp;q=dotfiles&amp;s=stars&amp;type=Repositories
-* https://wiki.archlinux.org/ <i class="fa fa-linux"></i>
-* http://dotshare.it <i class="fa fa-linux"></i> <i class="fa fa-apple"></i>
-* https://reddit.com/r/unixporn <i class="fa fa-linux"></i> <i class="fa fa-apple"></i>
-* https://reddit.com/r/customization <i class="fa fa-windows"></i>
+**You encounter an problem or error and don't know how to continue?**
 
-### WINDOW MANAGERS
-* X11 <i class="fa fa-linux"></i>
-  * https://wiki.archlinux.org/index.php/Openbox
-  * https://wiki.archlinux.org/index.php/Awesome
-    * https://github.com/copycat-killer/lain (Awesome w/ useless gaps)
-  * https://wiki.archlinux.org/index.php/I3
-    * https://github.com/Airblader/i3 (i3 w/ useless gaps)
-  * http://www.qtile.org/
-  * http://www.herbstluftwm.org/
-  * https://wiki.archlinux.org/index.php/Bspwm
-  * https://wiki.archlinux.org/index.php/Dwm
-  * https://wiki.archlinux.org/index.php/Xmonad
-* Wayland <i class="fa fa-linux"></i>
-  * https://github.com/michaelforney/velox
-  * https://github.com/SirCmpwn/sway
-  * https://github.com/Cloudef/orbment
-* Windows <i class="fa fa-windows"></i>
-  * http://blackbox4windows.com/
-  * https://windawesome.codeplex.com
-  * https://code.google.com/p/bugn/wiki/bugn
-  * https://github.com/Vibex/qt.pi
-  * https://github.com/ragesalmon/TildePlusPlus
+## Google it!
+This solves literally 90% of all the problems people ever have. I can't push
+this enough. The problem you're encountering is most likely not unique. You're
+probably not the first to struggle with it. By looking online you will nearly
+always find your (or a similar) question that will help you get going again.
 
-### TILING
-* PyTyle <i class="fa fa-linux"></i>
-  * https://wiki.archlinux.org/index.php/PyTyle
-  * https://code.google.com/p/pytyle/ (PyTyle 2)
-  * https://github.com/BurntSushi/pytyle3
-  * Differences: https://bbs.archlinux.org/viewtopic.php?pid=1058199#p1058199
-* http://twily.info/s/tiling/grid <i class="fa fa-linux"></i>
-* http://download.cnet.com/WinSplit-Revolution/3000-2072_4-10971915.html <i class="fa fa-windows"></i>
-* http://jgpaiva.dcmembers.com/gridmove.html <i class="fa fa-windows"></i>
+* [duckduckgo](https://duckduckgo/)
+* [google](https://google.com/) 
 
+## Manual
+*"How do I do **x** in **y**?"*, *"Is it possible to do **x** with **y**?"*. *"What does **x** do?"*.
+
+These are all way to common questions, especially for people who are starting
+with linux. 99% of the applications/binaries you're using have some kind of
+manual through either `$ man NAME_OF_APPLICATION` or `$ NAME_OF_APPLICATION
+--help`. This will very likely contain the solution one way or another.
+
+# Window managers
+## Linux
+* [X11](https://wiki.archlinux.org/index.php/Xorg)
+  * [Openbox](https://wiki.archlinux.org/index.php/Openbox)
+  * [Awesome](https://wiki.archlinux.org/index.php/Awesome)
+    * [Awesome spaceless](https://github.com/copycat-killer/lain)
+  * [I3](https://wiki.archlinux.org/index.php/I3)
+    * [I3 spaceless](https://github.com/Airblader/i3)
+  * [Qtile](http://www.qtile.org/)
+  * [Herbstluftwm](http://www.herbstluftwm.org/)
+  * [Bspwm](https://wiki.archlinux.org/index.php/Bspwm)
+  * [Dwm](https://wiki.archlinux.org/index.php/Dwm)
+  * [Xmonad](https://wiki.archlinux.org/index.php/Xmonad)
+* [Wayland](https://wiki.archlinux.org/index.php/Wayland)
+  * [Velox](https://github.com/michaelforney/velox)
+  * [Sway](https://github.com/SirCmpwn/sway)
+  * [Orbment](https://github.com/Cloudef/orbment)
+
+## Windows
+* [Blackbox](http://blackbox4windows.com/)
+* [Windawesome](https://windawesome.codeplex.com)
+* [Bugn](https://code.google.com/p/bugn/wiki/bugn)
+* [Qt](https://github.com/Vibex/qt.pi)
+* [Tilde++](https://github.com/ragesalmon/TildePlusPlus)
+
+## OSX
+*Placeholder*
+
+# Tiling
+## Linux  
+* [PyTyle2](https://code.google.com/p/pytyle/)
+* [PyTyle3](https://github.com/BurntSushi/pytyle3)
+The [Difference](https://bbs.archlinux.org/viewtopic.php?pid=1058199#p1058199).
+
+## Windows
+* [WinSplit](http://download.cnet.com/WinSplit-Revolution/3000-2072_4-10971915.html) 
+* [Gridmove](http://jgpaiva.dcmembers.com/gridmove.html)
+
+## OSX
+*Placeholder*
 ### BARS
-* https://wiki.archlinux.org/index.php/Dzen <i class="fa fa-linux"></i>
-* https://github.com/LemonBoy/bar <i class="fa fa-linux"></i>
-* https://wiki.archlinux.org/index.php/Tint2 <i class="fa fa-linux"></i>
+## Linux
+* [Dzen](https://wiki.archlinux.org/index.php/Dzen)
+* [Lemonbar](https://github.com/LemonBoy/bar)
+* [Tint](https://wiki.archlinux.org/index.php/Tint2)
 
-### TERMINAL EMULATORS
-* https://github.com/thestinger/termite <i class="fa fa-linux"></i>
-* https://wiki.archlinux.org/index.php/Rxvt-unicode <i class="fa fa-linux"></i>
-* http://st.suckless.org/ <i class="fa fa-linux"></i>
-* https://wiki.archlinux.org/index.php/Terminator <i class="fa fa-linux"></i>
-* https://www.iterm2.com <i class="fa fa-apple"></i>
-* http://sourceforge.net/projects/console/ <i class="fa fa-windows"></i>
-* https://code.google.com/p/mintty/ <i class="fa fa-windows"></i>
-* https://conemu.github.io/ <i class="fa fa-windows"></i>
-* https://babun.github.io/ <i class="fa fa-windows"></i>
+## Windows
+* None.
 
-### COLOR SCHEMES
+### Terminal emulators
+## Linux
+* [Termite](https://github.com/thestinger/termite)
+* [Urxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode)
+* [St](http://st.suckless.org/)
+* [Terminator](https://wiki.archlinux.org/index.php/Terminator)
+
+## Windows
+* [Console](http://sourceforge.net/projects/console/)
+* [Mintty](https://code.google.com/p/mintty/) <i class="fa fa-windows"></i>
+* [Conemu](https://conemu.github.io/)
+* [Babun](https://babun.github.io/)
+
+## Apple
+* [Iterm2](https://www.iterm2.com)
+
+### Color schemes
 * http://terminal.sexy
+* http://coolors.co
 * http://paletton.com/
 * http://www.xcolors.net
 * http://www.colourlovers.com
@@ -79,7 +105,7 @@ Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 * http://www.transparenttextures.com
 * http://daylerees.github.io/
 
-### WALLPAPERS
+### Wallpapers
 * http://alpha.wallhaven.cc
 * http://simpledesktops.com
 * http://subtlepatterns.com
@@ -89,8 +115,10 @@ Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 * http://www.stripegenerator.com
 * http://www.tartanmaker.com
 
-### FONTS
+### Fonts
 * http://www.dafont.com
+* http://fontawesome.io/
+* http://ionicons.com/
 * https://github.com/chrissimpkins/codeface
 * https://github.com/Tecate/bitmap-fonts
 
@@ -101,12 +129,13 @@ sudo rm /etc/fonts/conf.d/70-no-bitmaps.conf
 sudo fc-cache -f -v
 ```
 
-### FIREFOX
-* chrome://browser/content/browser.xul (To use with DOM Inspector)
-* http://pastebin.com/z4hmAWy2
-* https://nightly.mozilla.org
-* https://addons.mozilla.org/en-US/firefox/addon/stylish
-* http://www.logicalincrements.com/firefox/
+### Firefox
+* [XML](chrome://browser/content/browser.xul) 
+* [Nightly](https://nightly.mozilla.org)
+* [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish)
+* [LINC](http://www.logicalincrements.com/firefox/)
+
+Examples 
 * http://noha-ra.deviantart.com/art/Tinycss-476413072
 * http://noha-ra.deviantart.com/art/Konbanwa-homepage-450787545
 * https://github.com/yukisuki/startpage
