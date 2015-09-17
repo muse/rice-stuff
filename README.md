@@ -13,7 +13,7 @@ files from someone else and live with that. But that kind of ruins the fun of it
 
 **You encounter an problem or error and don't know how to continue?**
 
-## Google it!
+## Google it
 This solves literally 90% of all the problems people ever have. I can't push
 this enough. The problem you're encountering is most likely not unique. You're
 probably not the first to struggle with it. By looking online you will nearly
@@ -23,7 +23,7 @@ always find your (or a similar) question that will help you get going again.
 * [google](https://google.com/) 
 
 ## Manual
-*"How do I do **x** in **y**?"*, *"Is it possible to do **x** with **y**?"*. *"What does **x** do?"*.
+"How do I do x in y?", "Is it possible to do x with y?". "What does x do?".
 
 These are all way to common questions, especially for people who are starting
 with linux. 99% of the applications/binaries you're using have some kind of
@@ -31,96 +31,117 @@ manual through either `$ man NAME_OF_APPLICATION` or `$ NAME_OF_APPLICATION
 --help`. This will very likely contain the solution one way or another.
 
 # Window managers
+A window manager (WM) is system software that controls the placement and 
+appearance of windows within a windowing system in a graphical user interface (GUI). 
+It can be part of a desktop environment (DE) or be used standalone. 
+
 ## Linux
-* [X11](https://wiki.archlinux.org/index.php/Xorg)
-  * [Openbox](https://wiki.archlinux.org/index.php/Openbox)
-  * [Awesome](https://wiki.archlinux.org/index.php/Awesome)
-    * [Awesome spaceless](https://github.com/copycat-killer/lain)
-  * [I3](https://wiki.archlinux.org/index.php/I3)
-    * [I3 spaceless](https://github.com/Airblader/i3)
-  * [Qtile](http://www.qtile.org/)
-  * [Herbstluftwm](http://www.herbstluftwm.org/)
-  * [Bspwm](https://wiki.archlinux.org/index.php/Bspwm)
-  * [Dwm](https://wiki.archlinux.org/index.php/Dwm)
-  * [Xmonad](https://wiki.archlinux.org/index.php/Xmonad)
-* [Wayland](https://wiki.archlinux.org/index.php/Wayland)
-  * [Velox](https://github.com/michaelforney/velox)
-  * [Sway](https://github.com/SirCmpwn/sway)
-  * [Orbment](https://github.com/Cloudef/orbment)
+- [X11](https://wiki.archlinux.org/index.php/Xorg)
+  - [Openbox](https://wiki.archlinux.org/index.php/Openbox)
+  - [Awesome](https://wiki.archlinux.org/index.php/Awesome)
+    - [Awesome spaceless](https://github.com/copycat-killer/lain)
+  - [I3](https://wiki.archlinux.org/index.php/I3)
+    - [I3 spaceless](https://github.com/Airblader/i3)
+  - [Qtile](http://www.qtile.org/)
+  - [Herbstluftwm](http://www.herbstluftwm.org/)
+  - [Bspwm](https://wiki.archlinux.org/index.php/Bspwm)
+  - [Dwm](https://wiki.archlinux.org/index.php/Dwm)
+  - [Xmonad](https://wiki.archlinux.org/index.php/Xmonad)
+- [Wayland](https://wiki.archlinux.org/index.php/Wayland)
+  - [Velox](https://github.com/michaelforney/velox)
+  - [Sway](https://github.com/SirCmpwn/sway)
+  - [Orbment](https://github.com/Cloudef/orbment)
 
 ## Windows
-* [Blackbox](http://blackbox4windows.com/)
-* [Windawesome](https://windawesome.codeplex.com)
-* [Bugn](https://code.google.com/p/bugn/wiki/bugn)
-* [Qt](https://github.com/Vibex/qt.pi)
-* [Tilde++](https://github.com/ragesalmon/TildePlusPlus)
+- [Blackbox](http://blackbox4windows.com/)
+- [Windawesome](https://windawesome.codeplex.com)
+- [Bugn](https://code.google.com/p/bugn/wiki/bugn)
+- [Qt](https://github.com/Vibex/qt.pi)
+- [Tilde++](https://github.com/ragesalmon/TildePlusPlus)
 
 ## OSX
 *Placeholder*
 
 # Tiling
+The following applications are purely created for tiling. They bring nothing
+else to the table. If you're looking for something more complete consider
+looking at [window managers](#window-managers).
+
 ## Linux  
-* [PyTyle2](https://code.google.com/p/pytyle/)
-* [PyTyle3](https://github.com/BurntSushi/pytyle3)
+- [PyTyle2](https://code.google.com/p/pytyle/)
+- [PyTyle3](https://github.com/BurntSushi/pytyle3)
+---
 The [Difference](https://bbs.archlinux.org/viewtopic.php?pid=1058199#p1058199).
 
 ## Windows
-* [WinSplit](http://download.cnet.com/WinSplit-Revolution/3000-2072_4-10971915.html) 
-* [Gridmove](http://jgpaiva.dcmembers.com/gridmove.html)
+- [WinSplit](http://download.cnet.com/WinSplit-Revolution/3000-2072_4-10971915.html) 
+- [Gridmove](http://jgpaiva.dcmembers.com/gridmove.html)
 
 ## OSX
 *Placeholder*
-### BARS
+
+# Bars
+Bars are used to display everything from current desktops to active windows to
+system informaton. They have very similiar behaviour to the bar you would expect
+on Windows and OSX.  
 ## Linux
-* [Dzen](https://wiki.archlinux.org/index.php/Dzen)
-* [Lemonbar](https://github.com/LemonBoy/bar)
-* [Tint](https://wiki.archlinux.org/index.php/Tint2)
+- [Dzen](https://wiki.archlinux.org/index.php/Dzen)
+- [Lemonbar](https://github.com/LemonBoy/bar)
+- [Tint](https://wiki.archlinux.org/index.php/Tint2)
 
 ## Windows
-* None.
+*Placeholder*
+
+## OSX
+*Placeholder*
 
 ### Terminal emulators
+A terminal emulator, terminal application, term, or tty for short, is a program 
+that emulates a video terminal within some other display architecture. 
+Though typically synonymous with a shell or text terminal, the term terminal 
+covers all remote terminals, including graphical interfaces. A terminal emulator 
+inside a graphical user interface is often called a terminal window.
 ## Linux
-* [Termite](https://github.com/thestinger/termite)
-* [Urxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode)
-* [St](http://st.suckless.org/)
-* [Terminator](https://wiki.archlinux.org/index.php/Terminator)
+- [Termite](https://github.com/thestinger/termite)
+- [Urxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode)
+- [St](http://st.suckless.org/)
+- [Terminator](https://wiki.archlinux.org/index.php/Terminator)
 
 ## Windows
-* [Console](http://sourceforge.net/projects/console/)
-* [Mintty](https://code.google.com/p/mintty/) <i class="fa fa-windows"></i>
-* [Conemu](https://conemu.github.io/)
-* [Babun](https://babun.github.io/)
+- [Console](http://sourceforge.net/projects/console/)
+- [Mintty](https://code.google.com/p/mintty/) <i class="fa fa-windows"></i>
+- [Conemu](https://conemu.github.io/)
+- [Babun](https://babun.github.io/)
 
-## Apple
-* [Iterm2](https://www.iterm2.com)
+## OSX
+- [Iterm2](https://www.iterm2.com)
 
-### Color schemes
-* http://terminal.sexy
-* http://coolors.co
-* http://paletton.com/
-* http://www.xcolors.net
-* http://www.colourlovers.com
-* http://www.materialpalette.com
-* http://www.transparenttextures.com
-* http://daylerees.github.io/
+# Color schemes
+- http://terminal.sexy
+- http://coolors.co
+- http://paletton.com/
+- http://www.xcolors.net
+- http://www.colourlovers.com
+- http://www.materialpalette.com
+- http://www.transparenttextures.com
+- http://daylerees.github.io/
 
-### Wallpapers
-* http://alpha.wallhaven.cc
-* http://simpledesktops.com
-* http://subtlepatterns.com
-* https://unsplash.com
-* https://nik.bot.nu/browse.html
-* http://4walled.cc
-* http://www.stripegenerator.com
-* http://www.tartanmaker.com
+# Wallpapers
+- http://alpha.wallhaven.cc
+- http://simpledesktops.com
+- http://subtlepatterns.com
+- https://unsplash.com
+- https://nik.bot.nu/browse.html
+- http://4walled.cc
+- http://www.stripegenerator.com
+- http://www.tartanmaker.com
 
-### Fonts
-* http://www.dafont.com
-* http://fontawesome.io/
-* http://ionicons.com/
-* https://github.com/chrissimpkins/codeface
-* https://github.com/Tecate/bitmap-fonts
+# Fonts
+- http://www.dafont.com
+- http://fontawesome.io/
+- http://ionicons.com/
+- https://github.com/chrissimpkins/codeface
+- https://github.com/Tecate/bitmap-fonts
 
 On Debian/Ubuntu you need to enable bitmap fonts first:
 
@@ -129,72 +150,91 @@ sudo rm /etc/fonts/conf.d/70-no-bitmaps.conf
 sudo fc-cache -f -v
 ```
 
-### Firefox
-* [XML](chrome://browser/content/browser.xul) 
-* [Nightly](https://nightly.mozilla.org)
-* [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish)
-* [LINC](http://www.logicalincrements.com/firefox/)
+# Firefox
+- [XML](chrome://browser/content/browser.xul) 
+- [Nightly](https://nightly.mozilla.org)
+- [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish)
+- [LINC](http://www.logicalincrements.com/firefox/)
 
-Examples 
-* http://noha-ra.deviantart.com/art/Tinycss-476413072
-* http://noha-ra.deviantart.com/art/Konbanwa-homepage-450787545
-* https://github.com/yukisuki/startpage
-* http://twily.info/firefox/stylish/firefox-css#view
+# Image viewers
+## Linux
+- [Sxiv](https://github.com/lucy/sxiv) 
+- [Feh](http://feh.finalrewind.org/)
+- [Meh](http://www.johnhawthorn.com/meh/)
 
-### IMAGE VIEWERS
-* https://github.com/lucy/sxiv <i class="fa fa-linux"></i>
-* http://feh.finalrewind.org/ <i class="fa fa-linux"></i>
-* http://www.johnhawthorn.com/meh/ <i class="fa fa-linux"></i>
-* http://www.bandisoft.com/honeyview/ <i class="fa fa-windows"></i>
-* https://github.com/nothings/stb-imv/ <i class="fa fa-windows"></i>
-* https://github.com/kyubiko/n30f <i class="fa fa-linux"></i> <i class="fa fa-apple"></i>
+## Windows
+- [Honeyview](http://www.bandisoft.com/honeyview/)
+- [Stb](https://github.com/nothings/stb-imv/)
 
-### AUDIO
-* http://www.musicpd.org
-  * http://ncmpcpp.rybczak.net <i class="fa fa-linux"></i>
-  * http://karlstav.github.io/cava (standalone console visualizer) <i class="fa fa-linux"></i>
-  * https://github.com/lucy/mpdviz (standalone console visualizer) <i class="fa fa-linux"></i>
-  * https://github.com/ViktorNova/nausea (standalone console visualizer) <i class="fa fa-linux"></i>
-* http://www.aimp.ru <i class="fa fa-windows"></i>
-* http://www.foobar2000.org <i class="fa fa-windows"></i>
+## OSX
+- [N30F](https://github.com/kyubiko/n30f)
 
-### VIDEO
-* https://github.com/mpv-player/mpv
-* https://github.com/mpv-player/mpv/wiki/User-Scripts
-* http://sourceforge.net/projects/mpcbe <i class="fa fa-windows"></i>
-* https://mpc-hc.org <i class="fa fa-windows"></i>
+# Audio
+## Linux
+- [Mpd](http://www.musicpd.org)
+  - [Ncmpcpp](http://ncmpcpp.rybczak.net)
+  - [Cava](http://karlstav.github.io/cava) 
+  - [Mpdviz](https://github.com/lucy/mpdviz)
+  - [Nausea] (https://github.com/ViktorNova/nausea)
 
-### IRC
-* https://hexchat.github.io/
-* https://weechat.org/ <i class="fa fa-linux"></i> <i class="fa fa-apple"></i>
-* http://www.irssi.org/ <i class="fa fa-linux"></i> <i class="fa fa-apple"></i>
+## Windows
+- [Aimp](http://www.aimp.ru)
+- [Foobar](http://www.foobar2000.org)
 
-### SYSTEM INFO
-* https://github.com/hal-ullr/cmdfetch <i class="fa fa-windows"></i>
-* https://github.com/KittyKatt/screenFetch <i class="fa fa-linux"></i> <i class="fa fa-apple"></i>
-* https://github.com/djmelik/archey <i class="fa fa-linux"></i>
-* https://github.com/trizen/alsi <i class="fa fa-linux"></i>
-* https://github.com/jschx/ufetch <i class="fa fa-linux"></i>
+## OSX
+- [Vox](http://coppertino.com/)
+
+# Video
+## Linux
+- [Mpv](https://github.com/mpv-player/mpv)
+
+## Windows
+- [Mpcbe](http://sourceforge.net/projects/mpcbe)
+- [Mpc-hc](https://mpc-hc.org)
+
+## OSX
+*Placeholder*
+
+# IRC
+- [Hexchat](https://hexchat.github.io/)
+- [Weechat](https://weechat.org/) 
+- [Irssi](http://www.irssi.org/)
+
+# System info
+## Linux
+- [Screenfetch](https://github.com/KittyKatt/screenFetch)
+- [Archey](https://github.com/djmelik/archey)
+- [Alsi](https://github.com/trizen/alsi)
+- [Ufetch](https://github.com/jschx/ufetch)
+
+## Windows
+- [Cmdfetch](https://github.com/hal-ullr/cmdfetch)
+
+## OSX
+- [Screenfetch](https://github.com/KittyKatt/screenFetch)
 
 ### SHARING YOUR RICE
-* File Hosts
-  * https://u.teknik.io
-  * https://mixtape.moe
-  * http://1339.cf
-  * https://maxfile.ro
-  * http://puush.me/
-  * https://transfer.sh
-* Upload Tools
-  * https://github.com/6c37/gone
-  * https://getsharex.com/ <i class="fa fa-windows"></i>
-  * https://github.com/jschx/uguush <i class="fa fa-linux"></i>
-  * http://puush.me/ <i class="fa fa-windows"></i> <i class="fa fa-apple"></i>
-* Screenshot Tools
-  * https://github.com/naelstrof/maim <i class="fa fa-linux"></i>
-  * http://www.imagemagick.org/script/import.php
-  * http://freecode.com/projects/scrot <i class="fa fa-linux"></i>
-* Pastebins
-  * https://p.teknik.io
-  * https://spit.mixtape.moe
-  * http://ix.io
-  * http://sprunge.us
+- File Hosts
+  - https://mixtape.moe
+  - https://catbox.moe
+  - https://u.teknik.io
+  - https://mixtape.moe
+  - http://1339.cf
+  - https://maxfile.ro
+  - http://puush.me/
+  - https://transfer.sh
+- Upload Tools
+  - [Moe](https://github.com/Imakethings/Moe)
+  - [Gone](https://github.com/6c37/gone)
+  - [ShareX](https://getsharex.com/)
+  - [Uguush](https://github.com/jschx/uguush)
+  - [Puush](http://puush.me/)
+- Screenshot Tools
+  - [Main](https://github.com/naelstrof/maim)
+  - [Import](http://www.imagemagick.org/script/import.php)
+  - [Scrot](http://freecode.com/projects/scrot)
+- Pastebins
+  - https://p.teknik.io
+  - https://spit.mixtape.moe
+  - http://ix.io
+  - http://sprunge.us
