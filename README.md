@@ -22,7 +22,7 @@ Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 
 # How?
 First of all; ricing won't be an easy task. I mean, sure you can copy the config
-files from someone else and live with that. But that kind of ruins the fun of it all. 
+files from someone else and live with that. But that kind of ruins the fun of it all.
 
 **You encounter a problem or error and don't know how to continue?**
 
@@ -33,7 +33,7 @@ probably not the first to struggle with it. By looking online you will nearly
 always find your (or a similar) question that will help you get going again.
 
 * [duckduckgo](https://duckduckgo/)
-* [google](https://google.com/) 
+* [google](https://google.com/)
 
 #### Manual
 "How do I do x in y?", "Is it possible to do x with y?". "What does x do?".
@@ -44,9 +44,9 @@ manual through either `$ man NAME_OF_APPLICATION` or `$ NAME_OF_APPLICATION
 --help`. This will very likely contain the solution one way or another.
 
 # Window managers
-A window manager (WM) is system software that controls the placement and 
-appearance of windows within a windowing system in a graphical user interface (GUI). 
-It can be part of a desktop environment (DE) or be used standalone. 
+A window manager (WM) is system software that controls the placement and
+appearance of windows within a windowing system in a graphical user interface (GUI).
+It can be part of a desktop environment (DE) or be used standalone.
 
 #### Linux
 - [X11](https://wiki.archlinux.org/index.php/Xorg)
@@ -57,6 +57,7 @@ It can be part of a desktop environment (DE) or be used standalone.
     - [i3 gaps](https://github.com/Airblader/i3)
   - [Qtile](http://www.qtile.org/)
   - [herbstluftwm](http://www.herbstluftwm.org/)
+  - [howm](https://github.com/HarveyHunt/howm)
   - [bspwm](https://wiki.archlinux.org/index.php/Bspwm)
   - [dwm](https://wiki.archlinux.org/index.php/Dwm)
   - [xmonad](https://wiki.archlinux.org/index.php/Xmonad)
@@ -82,22 +83,22 @@ The following applications are purely created for tiling. They bring nothing
 else to the table. If you're looking for something more complete consider
 looking at [window managers](#window-managers).
 
-#### Linux  
+#### Linux
 - [PyTyle2](https://code.google.com/p/pytyle/)
 - [PyTyle3](https://github.com/BurntSushi/pytyle3)
 - The [Difference](https://bbs.archlinux.org/viewtopic.php?pid=1058199#p1058199).
 
 #### Windows
-- [WinSplit](http://download.cnet.com/WinSplit-Revolution/3000-2072_4-10971915.html) 
+- [WinSplit](http://download.cnet.com/WinSplit-Revolution/3000-2072_4-10971915.html)
 - [Gridmove](http://jgpaiva.dcmembers.com/gridmove.html)
 
 #### OSX
 *Placeholder*
 
 # Bars
-Bars are used to display everything from current desktops to active windows to
+Bars(aka panels) are used to display everything from current desktops to active windows to
 system informaton. They have very similiar behaviour to the bar you would expect
-on Windows and OSX.  
+on Windows and OSX.
 #### Linux
 - [Dzen](https://wiki.archlinux.org/index.php/Dzen)
 - [Lemonbar](https://github.com/LemonBoy/bar)
@@ -110,10 +111,10 @@ on Windows and OSX.
 *Placeholder*
 
 # Terminal emulators
-A terminal emulator, terminal application, term, or tty for short, is a program 
-that emulates a video terminal within some other display architecture. 
-Though typically synonymous with a shell or text terminal, the term terminal 
-covers all remote terminals, including graphical interfaces. A terminal emulator 
+A terminal emulator, terminal application, term, or tty for short, is a program
+that emulates a video terminal within some other display architecture.
+Though typically synonymous with a shell or text terminal, the term terminal
+covers all remote terminals, including graphical interfaces. A terminal emulator
 inside a graphical user interface is often called a terminal window.
 #### Linux
 - [Termite](https://github.com/thestinger/termite)
@@ -144,6 +145,7 @@ inside a graphical user interface is often called a terminal window.
 - http://alpha.wallhaven.cc
 - http://simpledesktops.com
 - http://subtlepatterns.com
+- http://www.squidfingers.com/patterns
 - https://unsplash.com
 - https://nik.bot.nu/browse.html
 - http://4walled.cc
@@ -172,7 +174,7 @@ sudo fc-cache -f -v
 
 # Image viewers
 #### Linux
-- [sxiv](https://github.com/lucy/sxiv) 
+- [sxiv](https://github.com/lucy/sxiv)
 - [feh](http://feh.finalrewind.org/)
 - [meh](http://www.johnhawthorn.com/meh/)
 
@@ -187,9 +189,10 @@ sudo fc-cache -f -v
 #### Linux
 - [mpd](http://www.musicpd.org)
   - [ncmpcpp](http://ncmpcpp.rybczak.net)
-  - [cava](http://karlstav.github.io/cava) 
+  - [cava](http://karlstav.github.io/cava)
   - [mpdviz](https://github.com/lucy/mpdviz)
   - [mausea](https://github.com/ViktorNova/nausea)
+- [cmus](https://cmus.github.io/)
 
 #### Windows
 - [Aimp](http://www.aimp.ru)
@@ -211,7 +214,7 @@ sudo fc-cache -f -v
 
 # IRC
 - [Hexchat](https://hexchat.github.io/)
-- [Weechat](https://weechat.org/) 
+- [Weechat](https://weechat.org/)
 - [Irssi](http://www.irssi.org/)
 
 # System info
@@ -225,7 +228,7 @@ sudo fc-cache -f -v
 - [Cmdfetch](https://github.com/hal-ullr/cmdfetch)
 
 #### OSX
-- [screenfetch](https://github.com/KittyKatt/screenFetch)
+- [Screenfetch](https://github.com/KittyKatt/screenFetch)
 
 # Sharing it
 - File Hosts
@@ -240,6 +243,7 @@ sudo fc-cache -f -v
 - Upload Tools
   - [Moe](https://github.com/Imakethings/Moe)
   - [ShareX](https://getsharex.com/)
+  - [gone](https://github.com/kori/gone)
   - [uguush](https://github.com/jschx/uguush)
   - [puush](http://puush.me/)
 - Screenshot Tools
@@ -251,3 +255,4 @@ sudo fc-cache -f -v
   - https://spit.mixtape.moe
   - http://ix.io
   - http://sprunge.us
+  - https://ptpb.pw
