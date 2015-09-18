@@ -223,7 +223,7 @@ sudo fc-cache -f -v
 - [Cmdfetch](https://github.com/hal-ullr/cmdfetch)
 
 #### OSX
-- [Screenfetch](https://github.com/KittyKatt/screenFetch)
+- [screenfetch](https://github.com/KittyKatt/screenFetch)
 
 # Sharing it
 - File Hosts
@@ -237,14 +237,13 @@ sudo fc-cache -f -v
   - https://transfer.sh
 - Upload Tools
   - [Moe](https://github.com/Imakethings/Moe)
-  - [Gone](https://github.com/6c37/gone)
   - [ShareX](https://getsharex.com/)
-  - [Uguush](https://github.com/jschx/uguush)
-  - [Puush](http://puush.me/)
+  - [uguush](https://github.com/jschx/uguush)
+  - [puush](http://puush.me/)
 - Screenshot Tools
-  - [Main](https://github.com/naelstrof/maim)
+  - [maim](https://github.com/naelstrof/maim)
   - [Import](http://www.imagemagick.org/script/import.php)
-  - [Scrot](http://freecode.com/projects/scrot)
+  - [scrot](http://freecode.com/projects/scrot)
 - Pastebins
   - https://p.teknik.io
   - https://spit.mixtape.moe
