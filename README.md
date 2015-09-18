@@ -206,6 +206,7 @@ sudo fc-cache -f -v
 - [mpv](https://github.com/mpv-player/mpv)
 
 #### Windows
+- [mpv](http://mpv.srsfckn.biz/)
 - [mpcbe](http://sourceforge.net/projects/mpcbe)
 - [mpc-hc](https://mpc-hc.org)
 
