@@ -24,7 +24,7 @@ Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 First of all; ricing won't be an easy task. I mean, sure you can copy the config
 files from someone else and live with that. But that kind of ruins the fun of it all. 
 
-**You encounter an problem or error and don't know how to continue?**
+**You encounter a problem or error and don't know how to continue?**
 
 #### Google it
 This solves literally 90% of all the problems people ever have. I can't push
