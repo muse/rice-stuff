@@ -56,20 +56,20 @@ It can be part of a desktop environment (DE) or be used standalone.
   - [i3](https://wiki.archlinux.org/index.php/I3)
     - [i3 gaps](https://github.com/Airblader/i3)
   - [Qtile](http://www.qtile.org/)
-  - [Herbstluftwm](http://www.herbstluftwm.org/)
-  - [Bspwm](https://wiki.archlinux.org/index.php/Bspwm)
-  - [Dwm](https://wiki.archlinux.org/index.php/Dwm)
-  - [Xmonad](https://wiki.archlinux.org/index.php/Xmonad)
+  - [herbstluftwm](http://www.herbstluftwm.org/)
+  - [bspwm](https://wiki.archlinux.org/index.php/Bspwm)
+  - [dwm](https://wiki.archlinux.org/index.php/Dwm)
+  - [xmonad](https://wiki.archlinux.org/index.php/Xmonad)
 - [Wayland](https://wiki.archlinux.org/index.php/Wayland)
-  - [Velox](https://github.com/michaelforney/velox)
-  - [Sway](https://github.com/SirCmpwn/sway)
+  - [velox](https://github.com/michaelforney/velox)
+  - [sway](https://github.com/SirCmpwn/sway)
   - [Orbment](https://github.com/Cloudef/orbment)
 
 #### Windows
 - [Blackbox](http://blackbox4windows.com/)
 - [Windawesome](https://windawesome.codeplex.com)
-- [Bugn](https://code.google.com/p/bugn/wiki/bugn)
-- [Qt](https://github.com/Vibex/qt.pi)
+- [bugn](https://code.google.com/p/bugn/wiki/bugn)
+- [qt](https://github.com/Vibex/qt.pi)
 - [Tilde++](https://github.com/ragesalmon/TildePlusPlus)
 
 #### OSX
