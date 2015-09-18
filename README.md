@@ -26,7 +26,7 @@ files from someone else and live with that. But that kind of ruins the fun of it
 
 **You encounter an problem or error and don't know how to continue?**
 
-## Google it
+#### Google it
 This solves literally 90% of all the problems people ever have. I can't push
 this enough. The problem you're encountering is most likely not unique. You're
 probably not the first to struggle with it. By looking online you will nearly
@@ -35,7 +35,7 @@ always find your (or a similar) question that will help you get going again.
 * [duckduckgo](https://duckduckgo/)
 * [google](https://google.com/) 
 
-## Manual
+#### Manual
 "How do I do x in y?", "Is it possible to do x with y?". "What does x do?".
 
 These are all way to common questions, especially for people who are starting
@@ -48,13 +48,13 @@ A window manager (WM) is system software that controls the placement and
 appearance of windows within a windowing system in a graphical user interface (GUI). 
 It can be part of a desktop environment (DE) or be used standalone. 
 
-## Linux
+#### Linux
 - [X11](https://wiki.archlinux.org/index.php/Xorg)
   - [Openbox](https://wiki.archlinux.org/index.php/Openbox)
   - [Awesome](https://wiki.archlinux.org/index.php/Awesome)
-    - [Awesome spaceless](https://github.com/copycat-killer/lain)
-  - [I3](https://wiki.archlinux.org/index.php/I3)
-    - [I3 spaceless](https://github.com/Airblader/i3)
+    - [Awesome gaps](https://github.com/copycat-killer/lain)
+  - [i3](https://wiki.archlinux.org/index.php/I3)
+    - [i3 gaps](https://github.com/Airblader/i3)
   - [Qtile](http://www.qtile.org/)
   - [Herbstluftwm](http://www.herbstluftwm.org/)
   - [Bspwm](https://wiki.archlinux.org/index.php/Bspwm)
@@ -65,14 +65,14 @@ It can be part of a desktop environment (DE) or be used standalone.
   - [Sway](https://github.com/SirCmpwn/sway)
   - [Orbment](https://github.com/Cloudef/orbment)
 
-## Windows
+#### Windows
 - [Blackbox](http://blackbox4windows.com/)
 - [Windawesome](https://windawesome.codeplex.com)
 - [Bugn](https://code.google.com/p/bugn/wiki/bugn)
 - [Qt](https://github.com/Vibex/qt.pi)
 - [Tilde++](https://github.com/ragesalmon/TildePlusPlus)
 
-## OSX
+#### OSX
 *Placeholder*
 
 # Tiling
@@ -80,52 +80,52 @@ The following applications are purely created for tiling. They bring nothing
 else to the table. If you're looking for something more complete consider
 looking at [window managers](#window-managers).
 
-## Linux  
+#### Linux  
 - [PyTyle2](https://code.google.com/p/pytyle/)
 - [PyTyle3](https://github.com/BurntSushi/pytyle3)
 - The [Difference](https://bbs.archlinux.org/viewtopic.php?pid=1058199#p1058199).
 
-## Windows
+#### Windows
 - [WinSplit](http://download.cnet.com/WinSplit-Revolution/3000-2072_4-10971915.html) 
 - [Gridmove](http://jgpaiva.dcmembers.com/gridmove.html)
 
-## OSX
+#### OSX
 *Placeholder*
 
 # Bars
 Bars are used to display everything from current desktops to active windows to
 system informaton. They have very similiar behaviour to the bar you would expect
 on Windows and OSX.  
-## Linux
+#### Linux
 - [Dzen](https://wiki.archlinux.org/index.php/Dzen)
 - [Lemonbar](https://github.com/LemonBoy/bar)
 - [Tint](https://wiki.archlinux.org/index.php/Tint2)
 
-## Windows
+#### Windows
 *Placeholder*
 
-## OSX
+#### OSX
 *Placeholder*
 
-### Terminal emulators
+# Terminal emulators
 A terminal emulator, terminal application, term, or tty for short, is a program 
 that emulates a video terminal within some other display architecture. 
 Though typically synonymous with a shell or text terminal, the term terminal 
 covers all remote terminals, including graphical interfaces. A terminal emulator 
 inside a graphical user interface is often called a terminal window.
-## Linux
+#### Linux
 - [Termite](https://github.com/thestinger/termite)
 - [Urxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode)
 - [St](http://st.suckless.org/)
 - [Terminator](https://wiki.archlinux.org/index.php/Terminator)
 
-## Windows
+#### Windows
 - [Console](http://sourceforge.net/projects/console/)
-- [Mintty](https://code.google.com/p/mintty/) <i class="fa fa-windows"></i>
+- [Mintty](https://code.google.com/p/mintty/)
 - [Conemu](https://conemu.github.io/)
 - [Babun](https://babun.github.io/)
 
-## OSX
+#### OSX
 - [Iterm2](https://www.iterm2.com)
 
 # Color schemes
@@ -169,43 +169,43 @@ sudo fc-cache -f -v
 - [LINC](http://www.logicalincrements.com/firefox/)
 
 # Image viewers
-## Linux
-- [Sxiv](https://github.com/lucy/sxiv) 
-- [Feh](http://feh.finalrewind.org/)
-- [Meh](http://www.johnhawthorn.com/meh/)
+#### Linux
+- [sxiv](https://github.com/lucy/sxiv) 
+- [feh](http://feh.finalrewind.org/)
+- [meh](http://www.johnhawthorn.com/meh/)
 
-## Windows
+#### Windows
 - [Honeyview](http://www.bandisoft.com/honeyview/)
-- [Stb](https://github.com/nothings/stb-imv/)
+- [stb](https://github.com/nothings/stb-imv/)
 
-## OSX
+#### OSX
 - [N30F](https://github.com/kyubiko/n30f)
 
 # Audio
-## Linux
-- [Mpd](http://www.musicpd.org)
-  - [Ncmpcpp](http://ncmpcpp.rybczak.net)
-  - [Cava](http://karlstav.github.io/cava) 
-  - [Mpdviz](https://github.com/lucy/mpdviz)
-  - [Nausea] (https://github.com/ViktorNova/nausea)
+#### Linux
+- [mpd](http://www.musicpd.org)
+  - [ncmpcpp](http://ncmpcpp.rybczak.net)
+  - [cava](http://karlstav.github.io/cava) 
+  - [mpdviz](https://github.com/lucy/mpdviz)
+  - [mausea](https://github.com/ViktorNova/nausea)
 
-## Windows
+#### Windows
 - [Aimp](http://www.aimp.ru)
 - [Foobar](http://www.foobar2000.org)
 
-## OSX
+#### OSX
 - [Vox](http://coppertino.com/)
 
 # Video
-## Linux
-- [Mpv](https://github.com/mpv-player/mpv)
+#### Linux
+- [mpv](https://github.com/mpv-player/mpv)
 
-## Windows
-- [Mpcbe](http://sourceforge.net/projects/mpcbe)
-- [Mpc-hc](https://mpc-hc.org)
+#### Windows
+- [mpcbe](http://sourceforge.net/projects/mpcbe)
+- [mpc-hc](https://mpc-hc.org)
 
-## OSX
-*Placeholder*
+#### OSX
+- [mpv](https://github.com/mpv-player/mpv)
 
 # IRC
 - [Hexchat](https://hexchat.github.io/)
@@ -213,16 +213,16 @@ sudo fc-cache -f -v
 - [Irssi](http://www.irssi.org/)
 
 # System info
-## Linux
+#### Linux
 - [Screenfetch](https://github.com/KittyKatt/screenFetch)
 - [Archey](https://github.com/djmelik/archey)
 - [Alsi](https://github.com/trizen/alsi)
 - [Ufetch](https://github.com/jschx/ufetch)
 
-## Windows
+#### Windows
 - [Cmdfetch](https://github.com/hal-ullr/cmdfetch)
 
-## OSX
+#### OSX
 - [Screenfetch](https://github.com/KittyKatt/screenFetch)
 
 # Sharing it
