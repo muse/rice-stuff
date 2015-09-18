@@ -73,7 +73,9 @@ It can be part of a desktop environment (DE) or be used standalone.
 - [Tilde++](https://github.com/ragesalmon/TildePlusPlus)
 
 #### OSX
-*Placeholder*
+- [Spectacle](https://www.spectacleapp.com/)
+- [Phoenix](https://github.com/kasper/phoenix)
+
 
 # Tiling
 The following applications are purely created for tiling. They bring nothing
