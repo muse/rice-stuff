@@ -96,7 +96,7 @@ looking at [window managers](#window-managers).
 *Placeholder*
 
 # Bars
-Bars(aka panels) are used to display everything from current desktops to active windows to
+Bars (aka panels) are used to display everything from current desktops to active windows to
 system informaton. They have very similiar behaviour to the bar you would expect
 on Windows and OSX.
 #### Linux
