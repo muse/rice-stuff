@@ -84,9 +84,10 @@ else to the table. If you're looking for something more complete consider
 looking at [window managers](#window-managers).
 
 #### Linux
+- [PyTyle](http://sourceforge.net/projects/pytyle/)
 - [PyTyle2](https://code.google.com/p/pytyle/)
 - [PyTyle3](https://github.com/BurntSushi/pytyle3)
-- The [Difference](https://bbs.archlinux.org/viewtopic.php?pid=1058199#p1058199).
+- [The difference between PyTyles](https://bbs.archlinux.org/viewtopic.php?pid=1058199#p1058199).
 
 #### Windows
 - [WinSplit](http://download.cnet.com/WinSplit-Revolution/3000-2072_4-10971915.html)
@@ -191,7 +192,7 @@ sudo fc-cache -f -v
   - [ncmpcpp](http://ncmpcpp.rybczak.net)
   - [cava](http://karlstav.github.io/cava)
   - [mpdviz](https://github.com/lucy/mpdviz)
-  - [mausea](https://github.com/ViktorNova/nausea)
+  - [nausea](https://github.com/ViktorNova/nausea)
 - [cmus](https://cmus.github.io/)
 
 #### Windows
