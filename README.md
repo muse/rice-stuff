@@ -154,7 +154,7 @@ inside a graphical user interface is often called a terminal window.
 - http://www.tartanmaker.com
 
 # Fonts
-### Where to get fonts?
+#### Where to get fonts?
 - http://www.dafont.com
 - http://fontawesome.io/
 - http://ionicons.com/
@@ -168,7 +168,7 @@ sudo rm /etc/fonts/conf.d/70-no-bitmaps.conf
 sudo fc-cache -f -v
 ```
 
-### Font rasterizers
+# Font rasterizers
 
 #### Windows
 - https://code.google.com/p/gdipp/
