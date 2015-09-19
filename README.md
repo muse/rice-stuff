@@ -247,6 +247,7 @@ sudo fc-cache -f -v
 
 #### OSX
 - [Screenfetch](https://github.com/KittyKatt/screenFetch)
+- [osxinfo](https://github.com/yrmt/osxinfo)
 
 # Sharing it
 - File Hosts
