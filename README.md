@@ -15,7 +15,7 @@ Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 - [Image viewers](#image-viewers)
 - [Audio](#audio)
 - [Video](#video)
-- [IRC](#IRC)
+- [IRC](#irc)
 - [System](#system-info)
 - [Sharing it!](#sharing-it)
 
