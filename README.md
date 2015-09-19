@@ -154,6 +154,7 @@ inside a graphical user interface is often called a terminal window.
 - http://www.tartanmaker.com
 
 # Fonts
+### Where to get fonts?
 - http://www.dafont.com
 - http://fontawesome.io/
 - http://ionicons.com/
@@ -166,6 +167,21 @@ On Debian/Ubuntu you need to enable bitmap fonts first:
 sudo rm /etc/fonts/conf.d/70-no-bitmaps.conf
 sudo fc-cache -f -v
 ```
+
+### Font rasterizers
+
+#### Windows
+- https://code.google.com/p/gdipp/
+- https://code.google.com/p/mactype/ (Installer: http://spoonm.org/MacType.exe)
+
+#### Linux
+- https://wiki.archlinux.org/index.php/Infinality
+- https://aur.archlinux.org/packages/freetype2-ubuntu/
+- https://aur.archlinux.org/packages/fontconfig-ubuntu/
+- https://aur.archlinux.org/packages/cairo-ubuntu/
+
+#### OSX
+*Do you even need it?*
 
 # Firefox
 - chrome://browser/content/browser.xul
