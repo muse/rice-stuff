@@ -168,7 +168,7 @@ sudo rm /etc/fonts/conf.d/70-no-bitmaps.conf
 sudo fc-cache -f -v
 ```
 
-## Font rasterizers
+## Font rendering
 
 #### Windows
 - https://code.google.com/p/gdipp/
