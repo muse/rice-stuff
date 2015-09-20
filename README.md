@@ -141,6 +141,7 @@ inside a graphical user interface is often called a terminal window.
 - http://www.materialpalette.com
 - http://www.transparenttextures.com
 - http://daylerees.github.io/
+- http://www.imagecolorpicker.com/
 
 # Wallpapers
 - http://alpha.wallhaven.cc
