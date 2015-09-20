@@ -3,7 +3,7 @@ Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 [Pull requests](https://github.com/TheReverend403/rice-stuff) for contributions are more than welcome.
 
 # Table of contents
-- [A quick summary](#how?)
+- [A quick summary](#how)
 - [Window managers](#window-managers)
 - [Tiling](#tiling)
 - [Bars](#bars)
