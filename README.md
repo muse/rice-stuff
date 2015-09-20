@@ -43,6 +43,10 @@ with linux. 99% of the applications/binaries you're using have some kind of
 manual through either `$ man NAME_OF_APPLICATION` or `$ NAME_OF_APPLICATION
 --help`. This will very likely contain the solution one way or another.
 
+If you still feel like you want a guide or something as a place to start,
+you can go [here](http://linuxnewbieguide.org/) for Linux, and for ricing
+on Windows 7, you can go [here](http://nanami-tan.info/).
+
 # Window managers
 A window manager (WM) is system software that controls the placement and
 appearance of windows within a windowing system in a graphical user interface (GUI).
