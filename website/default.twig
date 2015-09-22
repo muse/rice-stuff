@@ -19,7 +19,14 @@
 				<div class="col-md-8 col-md-offset-2">
 					<!-- HEADER -->
 					<div class="page-header">
-						<h1>#rice list o' resources<br><small>Ricing resources for Linux, Mac and Windows.</small></h1>
+						<h1>#rice list o' resources<br><small id="description">Ricing resources for Linux, Mac and Windows.</small></h1>
+						OS Filter:
+						<select id="filter">
+							<option value="All">All</option>
+							<option value="Windows">Windows</option>
+							<option value="Linux">Linux</option>
+							<option value="OSX">OSX</option>
+						</select>
 					</div>
 
 					<!-- MAIN CONTENT -->
@@ -59,7 +66,10 @@
 						break;
 					case "OSX": excludes = ["Windows", "Linux"];
 						break;
-					default: break;
+					default: $("h4").show();
+						$("h4").next().show();
+						$("#description").text("Ricing resources for Linux, Mac and Windows.");
+						return;
 				}
 
 				for (var i = 0; i < excludes.length; i++) {
@@ -68,10 +78,17 @@
 					$( "h4:contains(" + excludes[i] + ")" ).next().hide();
 				}
 
-				//Show the desired os heading and element after it(ul):
-				$( "h4:contains(" + os + ")" ).show();
-				$( "h4:contains(" + os + ")" ).next().show();
+				// Show the desired os heading and element after it(ul):
+				$("h4:contains(" + os + ")").show();
+				$("h4:contains(" + os + ")").next().show();
+				$("#description").text("Ricing resources for " + os + ".");
+
 			}
+
+			// Toggle filter function on select.
+			$( "#filter" ).change(function() {
+				osFilter($(this).find('option:selected').text());
+			});
 		</script>
 	</body>
 </html>
