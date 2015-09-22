@@ -39,15 +39,39 @@
 				<p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
 			</footer>
 		</div>
-		
+
 		<script src="//cdnjs.cloudflare.com/ajax/libs/anchor-js/1.2.1/anchor.min.js"></script>
-		
+		<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+
 		<script type="text/javascript">
 			(function () {
 				'use strict';
 				anchors.options.placement = 'right';
 				anchors.add('h1');
 			})();
+
+			function osFilter(os) {
+				excludes = [];
+				switch(os) {
+					case "Linux": excludes = ["Windows", "OSX"];
+						break;
+					case "Windows": excludes = ["Linux", "OSX"];
+						break;
+					case "OSX": excludes = ["Windows", "Linux"];
+						break;
+					default: break;
+				}
+
+				for (var i = 0; i < excludes.length; i++) {
+					// Hide the header and the element right after the header(ul)
+					$( "h4:contains(" + excludes[i] + ")" ).hide();
+					$( "h4:contains(" + excludes[i] + ")" ).next().hide();
+				}
+
+				//Show the desired os heading and element after it(ul):
+				$( "h4:contains(" + os + ")" ).show();
+				$( "h4:contains(" + os + ")" ).next().show();
+			}
 		</script>
 	</body>
 </html>
