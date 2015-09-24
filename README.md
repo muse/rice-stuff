@@ -108,6 +108,7 @@ on Windows and OSX.
 - [Dzen](https://wiki.archlinux.org/index.php/Dzen)
 - [Lemonbar](https://github.com/LemonBoy/bar)
 - [Tint](https://wiki.archlinux.org/index.php/Tint2)
+- [n30f](https://github.com/kyubiko/n30f)
 
 #### Windows
 *Placeholder*
@@ -205,8 +206,6 @@ sudo fc-cache -f -v
 - [Honeyview](http://www.bandisoft.com/honeyview/)
 - [stb](https://github.com/nothings/stb-imv/)
 
-#### OSX
-- [N30F](https://github.com/kyubiko/n30f)
 
 # Audio
 #### Linux
