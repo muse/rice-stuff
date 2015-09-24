@@ -197,6 +197,7 @@ sudo fc-cache -f -v
 # Image viewers
 #### Linux
 - [sxiv](https://github.com/lucy/sxiv)
+- [pqiv](https://github.com/phillipberndt/pqiv)
 - [feh](http://feh.finalrewind.org/)
 - [meh](http://www.johnhawthorn.com/meh/)
 
