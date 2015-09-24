@@ -12,6 +12,7 @@ Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 - [Wallpapers](#wallpapers)
 - [Fonts](#fonts)
 - [Firefox](#firefox)
+- [Seamonkey](#seamonkey)
 - [Image viewers](#image-viewers)
 - [Audio](#audio)
 - [Video](#video)
@@ -196,6 +197,10 @@ sudo fc-cache -f -v
 - [LINC](http://www.logicalincrements.com/firefox/)
 - [Twily's stuff](http://twily.info/firefox/stylish/)
 - [TinyCSS](http://noha-ra.deviantart.com/art/Tinycss-476413072)
+
+# Seamonkey
+- chrome://navigator/content/navigator.xul
+- [Incompatible addon converter](http://addonconverter.fotokraina.com/)
 
 # Image viewers
 #### Linux
