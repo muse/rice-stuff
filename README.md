@@ -147,6 +147,8 @@ inside a graphical user interface is often called a terminal window.
 - http://www.transparenttextures.com
 - http://daylerees.github.io
 - http://www.imagecolorpicker.com
+- http://pltts.me
+- http://dotshare.it/category/terms/colors
 
 # Wallpapers
 - http://alpha.wallhaven.cc
@@ -158,6 +160,7 @@ inside a graphical user interface is often called a terminal window.
 - http://4walled.cc
 - http://www.stripegenerator.com
 - http://www.tartanmaker.com
+- https://www.flickr.com
 
 # Fonts
 ## Where to get fonts?
