@@ -188,7 +188,7 @@ sudo fc-cache -f -v
 
 #### Windows
 - https://code.google.com/p/gdipp
-- https://code.google.com/p/mactype (Installer: http://spoonm.org/MacType.exe)
+- https://code.google.com/p/mactype - [installer](http://spoonm.org/MacType.exe)
 
 #### Linux
 - https://wiki.archlinux.org/index.php/Infinality
