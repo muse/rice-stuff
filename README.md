@@ -194,6 +194,8 @@ sudo fc-cache -f -v
 - [Nightly](https://nightly.mozilla.org)
 - [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish)
 - [LINC](http://www.logicalincrements.com/firefox/)
+- [Twily's stuff](http://twily.info/firefox/stylish/)
+- [TinyCSS](http://noha-ra.deviantart.com/art/Tinycss-476413072)
 
 # Image viewers
 #### Linux
