@@ -265,7 +265,6 @@ sudo fc-cache -f -v
   - https://maxfile.ro
   - http://puush.me/
   - https://transfer.sh
-  - https://sr.ht
 - Upload Tools
   - [Moe](https://github.com/Imakethings/Moe)
   - [ShareX](https://getsharex.com/)
