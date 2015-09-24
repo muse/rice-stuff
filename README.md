@@ -276,6 +276,8 @@ sudo fc-cache -f -v
   - [maim](https://github.com/naelstrof/maim)
   - [Import](http://www.imagemagick.org/script/import.php)
   - [scrot](http://freecode.com/projects/scrot)
+- Screen recording
+  - [Screencast](http://twily.info/scripts/screencast#view) (Uses ffmpeg to record screen to webm)
 - Pastebins
   - https://p.teknik.io
   - https://spit.mixtape.moe
