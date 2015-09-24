@@ -8,6 +8,7 @@ Join us in #rice on irc.rizon.net (https://qchat.rizon.net/?channels=rice)
 - [Tiling](#tiling)
 - [Bars](#bars)
 - [Terminal emulators](#terminal-emulators)
+- [Shells](#shells)
 - [Color schemes](#color-schemes)
 - [Wallpapers](#wallpapers)
 - [Fonts](#fonts)
@@ -136,6 +137,10 @@ inside a graphical user interface is often called a terminal window.
 
 #### OSX
 - [Iterm2](https://www.iterm2.com)
+
+# Shells
+- [Zsh](http://www.zsh.org/)
+- [Fish](http://fishshell.com/)
 
 # Color schemes
 - http://terminal.sexy
