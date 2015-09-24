@@ -65,6 +65,7 @@ It can be part of a desktop environment (DE) or be used standalone.
   - [bspwm](https://wiki.archlinux.org/index.php/Bspwm)
   - [dwm](https://wiki.archlinux.org/index.php/Dwm)
   - [xmonad](https://wiki.archlinux.org/index.php/Xmonad)
+  - [FVWM](http://www.fvwm.org/)
 - [Wayland](https://wiki.archlinux.org/index.php/Wayland)
   - [velox](https://github.com/michaelforney/velox)
   - [sway](https://github.com/SirCmpwn/sway)
@@ -264,6 +265,7 @@ sudo fc-cache -f -v
   - https://maxfile.ro
   - http://puush.me/
   - https://transfer.sh
+  - https://sr.ht
 - Upload Tools
   - [Moe](https://github.com/Imakethings/Moe)
   - [ShareX](https://getsharex.com/)
