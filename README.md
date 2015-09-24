@@ -140,13 +140,13 @@ inside a graphical user interface is often called a terminal window.
 # Color schemes
 - http://terminal.sexy
 - http://coolors.co
-- http://paletton.com/
+- http://paletton.com
 - http://www.xcolors.net
 - http://www.colourlovers.com
 - http://www.materialpalette.com
 - http://www.transparenttextures.com
-- http://daylerees.github.io/
-- http://www.imagecolorpicker.com/
+- http://daylerees.github.io
+- http://www.imagecolorpicker.com
 
 # Wallpapers
 - http://alpha.wallhaven.cc
@@ -162,8 +162,8 @@ inside a graphical user interface is often called a terminal window.
 # Fonts
 ## Where to get fonts?
 - http://www.dafont.com
-- http://fontawesome.io/
-- http://ionicons.com/
+- http://fontawesome.io
+- http://ionicons.com
 - https://github.com/chrissimpkins/codeface
 - https://github.com/Tecate/bitmap-fonts
 
@@ -177,14 +177,14 @@ sudo fc-cache -f -v
 ## Font rendering
 
 #### Windows
-- https://code.google.com/p/gdipp/
-- https://code.google.com/p/mactype/ (Installer: http://spoonm.org/MacType.exe)
+- https://code.google.com/p/gdipp
+- https://code.google.com/p/mactype (Installer: http://spoonm.org/MacType.exe)
 
 #### Linux
 - https://wiki.archlinux.org/index.php/Infinality
-- https://aur.archlinux.org/packages/freetype2-ubuntu/
-- https://aur.archlinux.org/packages/fontconfig-ubuntu/
-- https://aur.archlinux.org/packages/cairo-ubuntu/
+- https://aur.archlinux.org/packages/freetype2-ubuntu
+- https://aur.archlinux.org/packages/fontconfig-ubuntu
+- https://aur.archlinux.org/packages/cairo-ubuntu
 
 #### OSX
 *Do you even need it?*
@@ -257,22 +257,22 @@ sudo fc-cache -f -v
 - [osxinfo](https://github.com/yrmt/osxinfo)
 
 # Sharing it
-- File Hosts
+- File hosts
   - https://mixtape.moe
   - https://catbox.moe
   - https://u.teknik.io
   - https://mixtape.moe
   - http://1339.cf
   - https://maxfile.ro
-  - http://puush.me/
+  - http://puush.me
   - https://transfer.sh
-- Upload Tools
+- Upload tools
   - [Moe](https://github.com/Imakethings/Moe)
   - [ShareX](https://getsharex.com/)
   - [gone](https://github.com/kori/gone)
   - [uguush](https://github.com/jschx/uguush)
   - [puush](http://puush.me/)
-- Screenshot Tools
+- Screenshot tools
   - [maim](https://github.com/naelstrof/maim)
   - [Import](http://www.imagemagick.org/script/import.php)
   - [scrot](http://freecode.com/projects/scrot)
