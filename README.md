@@ -130,7 +130,7 @@ inside a graphical user interface is often called a terminal window.
 - [urxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode)
 - [st](http://st.suckless.org/)
 - [Terminator](https://wiki.archlinux.org/index.php/Terminator)
-- [xfc4-terminal](http://docs.xfce.org/apps/terminal/start)
+- [xfce4-terminal](http://docs.xfce.org/apps/terminal/start)
 
 #### Windows
 - [Console](http://sourceforge.net/projects/console/)
