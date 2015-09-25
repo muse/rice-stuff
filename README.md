@@ -126,10 +126,11 @@ Though typically synonymous with a shell or text terminal, the term terminal
 covers all remote terminals, including graphical interfaces. A terminal emulator
 inside a graphical user interface is often called a terminal window.
 #### Linux
-- [Termite](https://github.com/thestinger/termite)
-- [Urxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode)
-- [St](http://st.suckless.org/)
+- [termite](https://github.com/thestinger/termite)
+- [urxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode)
+- [st](http://st.suckless.org/)
 - [Terminator](https://wiki.archlinux.org/index.php/Terminator)
+- [xfc4-terminal](http://docs.xfce.org/apps/terminal/start)
 
 #### Windows
 - [Console](http://sourceforge.net/projects/console/)
