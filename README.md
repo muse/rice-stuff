@@ -121,15 +121,16 @@ on Windows and OSX.
 
 # Program Launchers
 A launcher is a program displaying a dialog to search for an action, typically launch an application. Many are not limited to just this, and allow you to perform other operations such as open up files and folders on your computer.
-
 #### Linux
 - [dmenu](http://tools.suckless.org/dmenu/)
   - [dmenu2](https://bitbucket.org/melek/dmenu2)
 - [lighthouse](https://github.com/emgram769/lighthouse)
 - [interrobang](https://github.com/TrilbyWhite/interrobang)
 - [rofi](https://github.com/DaveDavenport/rofi)
+
 #### OSX
 - Finder (included with OS)
+
 #### Windows
 - Start Menu (included with OS)
 
