@@ -134,6 +134,7 @@ A launcher is a program displaying a dialog to search for an action, typically l
 
 #### Windows
 - Start Menu (included with OS)
+- [Launchy](http://www.launchy.net/)
 
 # Terminal emulators
 A terminal emulator, terminal application, term, or tty for short, is a program
