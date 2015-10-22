@@ -303,6 +303,8 @@ sudo fc-cache -f -v
   - https://maxfile.ro
   - http://puush.me
   - https://transfer.sh
+  - https://curl.io
+  - https://madokami.com/
 - Upload tools
   - [Moe](https://github.com/Imakethings/Moe)
   - [ShareX](https://getsharex.com/)
